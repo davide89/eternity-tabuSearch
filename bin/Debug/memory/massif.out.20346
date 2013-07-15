@@ -1,0 +1,955 @@
+desc: (none)
+cmd: ./eternity pieces_08x08.txt 08x08_output.txt 100000 25 1
+time_unit: i
+#-----------
+snapshot=0
+#-----------
+time=0
+mem_heap_B=0
+mem_heap_extra_B=0
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=1
+#-----------
+time=391259616
+mem_heap_B=27404
+mem_heap_extra_B=14260
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=2
+#-----------
+time=899258766
+mem_heap_B=27404
+mem_heap_extra_B=14252
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=3
+#-----------
+time=1702473196
+mem_heap_B=27404
+mem_heap_extra_B=14260
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=4
+#-----------
+time=2358231237
+mem_heap_B=27404
+mem_heap_extra_B=14260
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=5
+#-----------
+time=2827495776
+mem_heap_B=27404
+mem_heap_extra_B=14260
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=6
+#-----------
+time=3332492924
+mem_heap_B=27404
+mem_heap_extra_B=14260
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=7
+#-----------
+time=3973183887
+mem_heap_B=27404
+mem_heap_extra_B=14260
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=8
+#-----------
+time=4377832882
+mem_heap_B=27412
+mem_heap_extra_B=14268
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=9
+#-----------
+time=4931221453
+mem_heap_B=27404
+mem_heap_extra_B=14260
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=10
+#-----------
+time=5668608472
+mem_heap_B=5804
+mem_heap_extra_B=3444
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=11
+#-----------
+time=6102116165
+mem_heap_B=27424
+mem_heap_extra_B=14280
+mem_stacks_B=0
+heap_tree=peak
+n7: 27424 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n2: 16436 0x8049738: move_new (neigh_swap_rotate.c:9)
+  n1: 15764 0x804A16A: neighbor_new (neigh_swap_rotate.c:169)
+   n2: 15764 0x804A3AC: neighborhood_new (neigh_swap_rotate.c:221)
+    n1: 15764 0x804A46C: neighborhood_generation_inner (neigh_swap_rotate.c:242)
+     n2: 15764 0x80504FC: tabuSearchDefault (tabu.c:1058)
+      n0: 15764 0x8049678: main (main.c:223)
+      n0: 0 in 1 place, below massif's threshold (01.00%)
+    n0: 0 in 2 places, all below massif's threshold (01.00%)
+  n1: 672 0x80498A8: move_reverse (neigh_swap_rotate.c:44)
+   n1: 672 0x804E6AE: lookup_move (tabu.c:110)
+    n2: 672 0x8050552: tabuSearchDefault (tabu.c:1071)
+     n0: 672 0x8049678: main (main.c:223)
+     n0: 0 in 1 place, below massif's threshold (01.00%)
+ n1: 4504 0x804A144: neighbor_new (neigh_swap_rotate.c:164)
+  n2: 4504 0x804A3AC: neighborhood_new (neigh_swap_rotate.c:221)
+   n1: 4504 0x804A46C: neighborhood_generation_inner (neigh_swap_rotate.c:242)
+    n2: 4504 0x80504FC: tabuSearchDefault (tabu.c:1058)
+     n0: 4504 0x8049678: main (main.c:223)
+     n0: 0 in 1 place, below massif's threshold (01.00%)
+   n0: 0 in 2 places, all below massif's threshold (01.00%)
+ n2: 2252 0x804A368: neighborhood_new (neigh_swap_rotate.c:215)
+  n1: 2252 0x804A46C: neighborhood_generation_inner (neigh_swap_rotate.c:242)
+   n2: 2252 0x80504FC: tabuSearchDefault (tabu.c:1058)
+    n0: 2252 0x8049678: main (main.c:223)
+    n0: 0 in 1 place, below massif's threshold (01.00%)
+  n0: 0 in 2 places, all below massif's threshold (01.00%)
+ n3: 1536 0x804BA86: piece_new (solution.c:129)
+  n0: 568 in 16 places, all below massif's threshold (01.00%)
+  n2: 512 0x804BCD2: solution_cpy (solution.c:194)
+   n2: 512 0x805061C: tabuSearchDefault (tabu.c:1098)
+    n0: 512 0x8049678: main (main.c:223)
+    n0: 0 in 1 place, below massif's threshold (01.00%)
+   n0: 0 in 2 places, all below massif's threshold (01.00%)
+  n1: 456 0x804A28A: neighbor_into_solution (neigh_swap_rotate.c:192)
+   n2: 456 0x8050596: tabuSearchDefault (tabu.c:1079)
+    n0: 456 0x8049678: main (main.c:223)
+    n0: 0 in 1 place, below massif's threshold (01.00%)
+ n1: 1280 0x804B939: square_new (solution.c:53)
+  n1: 1280 0x8048BA3: read_input (input.c:36)
+   n0: 1280 0x80491C6: main (main.c:164)
+ n2: 768 0x804BB5F: solution_new (solution.c:159)
+  n2: 512 0x804BC56: solution_cpy (solution.c:190)
+   n1: 512 0x805061C: tabuSearchDefault (tabu.c:1098)
+    n0: 512 in 2 places, all below massif's threshold (01.00%)
+   n0: 0 in 2 places, all below massif's threshold (01.00%)
+  n0: 256 in 1 place, below massif's threshold (01.00%)
+ n0: 648 in 9 places, all below massif's threshold (01.00%)
+#-----------
+snapshot=12
+#-----------
+time=6726061651
+mem_heap_B=27404
+mem_heap_extra_B=14260
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=13
+#-----------
+time=7179839278
+mem_heap_B=27404
+mem_heap_extra_B=14260
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=14
+#-----------
+time=7731595699
+mem_heap_B=27404
+mem_heap_extra_B=14260
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=15
+#-----------
+time=8089122508
+mem_heap_B=27404
+mem_heap_extra_B=14260
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=16
+#-----------
+time=8625410061
+mem_heap_B=27320
+mem_heap_extra_B=14224
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=17
+#-----------
+time=9429842188
+mem_heap_B=27292
+mem_heap_extra_B=14212
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=18
+#-----------
+time=9876751261
+mem_heap_B=27292
+mem_heap_extra_B=14212
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=19
+#-----------
+time=10591801323
+mem_heap_B=22656
+mem_heap_extra_B=11640
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=20
+#-----------
+time=11128091257
+mem_heap_B=27292
+mem_heap_extra_B=14212
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=21
+#-----------
+time=11485617806
+mem_heap_B=27264
+mem_heap_extra_B=14200
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=22
+#-----------
+time=11932526282
+mem_heap_B=27264
+mem_heap_extra_B=14200
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=23
+#-----------
+time=12613199915
+mem_heap_B=27320
+mem_heap_extra_B=14224
+mem_stacks_B=0
+heap_tree=detailed
+n7: 27320 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n2: 16324 0x8049738: move_new (neigh_swap_rotate.c:9)
+  n1: 15764 0x804A16A: neighbor_new (neigh_swap_rotate.c:169)
+   n2: 15764 0x804A3AC: neighborhood_new (neigh_swap_rotate.c:221)
+    n1: 15764 0x804A46C: neighborhood_generation_inner (neigh_swap_rotate.c:242)
+     n2: 15764 0x80504FC: tabuSearchDefault (tabu.c:1058)
+      n0: 15764 0x8049678: main (main.c:223)
+      n0: 0 in 1 place, below massif's threshold (01.00%)
+    n0: 0 in 2 places, all below massif's threshold (01.00%)
+  n1: 560 0x80498A8: move_reverse (neigh_swap_rotate.c:44)
+   n1: 560 0x804E6AE: lookup_move (tabu.c:110)
+    n2: 560 0x8050552: tabuSearchDefault (tabu.c:1071)
+     n0: 560 0x8049678: main (main.c:223)
+     n0: 0 in 1 place, below massif's threshold (01.00%)
+ n1: 4504 0x804A144: neighbor_new (neigh_swap_rotate.c:164)
+  n2: 4504 0x804A3AC: neighborhood_new (neigh_swap_rotate.c:221)
+   n1: 4504 0x804A46C: neighborhood_generation_inner (neigh_swap_rotate.c:242)
+    n2: 4504 0x80504FC: tabuSearchDefault (tabu.c:1058)
+     n0: 4504 0x8049678: main (main.c:223)
+     n0: 0 in 1 place, below massif's threshold (01.00%)
+   n0: 0 in 2 places, all below massif's threshold (01.00%)
+ n2: 2252 0x804A368: neighborhood_new (neigh_swap_rotate.c:215)
+  n1: 2252 0x804A46C: neighborhood_generation_inner (neigh_swap_rotate.c:242)
+   n2: 2252 0x80504FC: tabuSearchDefault (tabu.c:1058)
+    n0: 2252 0x8049678: main (main.c:223)
+    n0: 0 in 1 place, below massif's threshold (01.00%)
+  n0: 0 in 2 places, all below massif's threshold (01.00%)
+ n3: 1544 0x804BA86: piece_new (solution.c:129)
+  n0: 576 in 16 places, all below massif's threshold (01.00%)
+  n2: 512 0x804BCD2: solution_cpy (solution.c:194)
+   n2: 512 0x805061C: tabuSearchDefault (tabu.c:1098)
+    n0: 512 0x8049678: main (main.c:223)
+    n0: 0 in 1 place, below massif's threshold (01.00%)
+   n0: 0 in 2 places, all below massif's threshold (01.00%)
+  n1: 456 0x804A28A: neighbor_into_solution (neigh_swap_rotate.c:192)
+   n2: 456 0x8050596: tabuSearchDefault (tabu.c:1079)
+    n0: 456 0x8049678: main (main.c:223)
+    n0: 0 in 1 place, below massif's threshold (01.00%)
+ n1: 1280 0x804B939: square_new (solution.c:53)
+  n1: 1280 0x8048BA3: read_input (input.c:36)
+   n0: 1280 0x80491C6: main (main.c:164)
+ n2: 768 0x804BB5F: solution_new (solution.c:159)
+  n2: 512 0x804BC56: solution_cpy (solution.c:190)
+   n1: 512 0x805061C: tabuSearchDefault (tabu.c:1098)
+    n0: 512 in 2 places, all below massif's threshold (01.00%)
+   n0: 0 in 2 places, all below massif's threshold (01.00%)
+  n0: 256 in 1 place, below massif's threshold (01.00%)
+ n0: 648 in 9 places, all below massif's threshold (01.00%)
+#-----------
+snapshot=24
+#-----------
+time=13066983515
+mem_heap_B=27320
+mem_heap_extra_B=14224
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=25
+#-----------
+time=13520765566
+mem_heap_B=27264
+mem_heap_extra_B=14200
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=26
+#-----------
+time=13974548537
+mem_heap_B=27320
+mem_heap_extra_B=14224
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=27
+#-----------
+time=14428329840
+mem_heap_B=27264
+mem_heap_extra_B=14200
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=28
+#-----------
+time=14995557585
+mem_heap_B=27264
+mem_heap_extra_B=14200
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=29
+#-----------
+time=15789680081
+mem_heap_B=27292
+mem_heap_extra_B=14212
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=30
+#-----------
+time=16243463678
+mem_heap_B=27292
+mem_heap_extra_B=14212
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=31
+#-----------
+time=16924139789
+mem_heap_B=27236
+mem_heap_extra_B=14188
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=32
+#-----------
+time=17604813436
+mem_heap_B=27320
+mem_heap_extra_B=14224
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=33
+#-----------
+time=17962342547
+mem_heap_B=27264
+mem_heap_extra_B=14200
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=34
+#-----------
+time=18498635094
+mem_heap_B=27264
+mem_heap_extra_B=14200
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=35
+#-----------
+time=19034926503
+mem_heap_B=27264
+mem_heap_extra_B=14200
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=36
+#-----------
+time=19392455425
+mem_heap_B=27320
+mem_heap_extra_B=14224
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=37
+#-----------
+time=19928748686
+mem_heap_B=27320
+mem_heap_extra_B=14224
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=38
+#-----------
+time=20643805810
+mem_heap_B=27292
+mem_heap_extra_B=14212
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=39
+#-----------
+time=21001333961
+mem_heap_B=27320
+mem_heap_extra_B=14224
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=40
+#-----------
+time=21537626808
+mem_heap_B=16844
+mem_heap_extra_B=8380
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=41
+#-----------
+time=22252682265
+mem_heap_B=27264
+mem_heap_extra_B=14200
+mem_stacks_B=0
+heap_tree=detailed
+n7: 27264 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n2: 16268 0x8049738: move_new (neigh_swap_rotate.c:9)
+  n1: 15764 0x804A16A: neighbor_new (neigh_swap_rotate.c:169)
+   n2: 15764 0x804A3AC: neighborhood_new (neigh_swap_rotate.c:221)
+    n1: 15764 0x804A46C: neighborhood_generation_inner (neigh_swap_rotate.c:242)
+     n2: 15764 0x80504FC: tabuSearchDefault (tabu.c:1058)
+      n0: 15764 0x8049678: main (main.c:223)
+      n0: 0 in 1 place, below massif's threshold (01.00%)
+    n0: 0 in 2 places, all below massif's threshold (01.00%)
+  n1: 504 0x80498A8: move_reverse (neigh_swap_rotate.c:44)
+   n1: 504 0x804E6AE: lookup_move (tabu.c:110)
+    n2: 504 0x8050552: tabuSearchDefault (tabu.c:1071)
+     n0: 504 0x8049678: main (main.c:223)
+     n0: 0 in 1 place, below massif's threshold (01.00%)
+ n1: 4504 0x804A144: neighbor_new (neigh_swap_rotate.c:164)
+  n2: 4504 0x804A3AC: neighborhood_new (neigh_swap_rotate.c:221)
+   n1: 4504 0x804A46C: neighborhood_generation_inner (neigh_swap_rotate.c:242)
+    n2: 4504 0x80504FC: tabuSearchDefault (tabu.c:1058)
+     n0: 4504 0x8049678: main (main.c:223)
+     n0: 0 in 1 place, below massif's threshold (01.00%)
+   n0: 0 in 2 places, all below massif's threshold (01.00%)
+ n2: 2252 0x804A368: neighborhood_new (neigh_swap_rotate.c:215)
+  n1: 2252 0x804A46C: neighborhood_generation_inner (neigh_swap_rotate.c:242)
+   n2: 2252 0x80504FC: tabuSearchDefault (tabu.c:1058)
+    n0: 2252 0x8049678: main (main.c:223)
+    n0: 0 in 1 place, below massif's threshold (01.00%)
+  n0: 0 in 2 places, all below massif's threshold (01.00%)
+ n3: 1544 0x804BA86: piece_new (solution.c:129)
+  n0: 568 in 16 places, all below massif's threshold (01.00%)
+  n2: 512 0x804BCD2: solution_cpy (solution.c:194)
+   n2: 512 0x805061C: tabuSearchDefault (tabu.c:1098)
+    n0: 512 0x8049678: main (main.c:223)
+    n0: 0 in 1 place, below massif's threshold (01.00%)
+   n0: 0 in 2 places, all below massif's threshold (01.00%)
+  n1: 464 0x804A28A: neighbor_into_solution (neigh_swap_rotate.c:192)
+   n2: 464 0x8050596: tabuSearchDefault (tabu.c:1079)
+    n0: 464 0x8049678: main (main.c:223)
+    n0: 0 in 1 place, below massif's threshold (01.00%)
+ n1: 1280 0x804B939: square_new (solution.c:53)
+  n1: 1280 0x8048BA3: read_input (input.c:36)
+   n0: 1280 0x80491C6: main (main.c:164)
+ n2: 768 0x804BB5F: solution_new (solution.c:159)
+  n2: 512 0x804BC56: solution_cpy (solution.c:190)
+   n1: 512 0x805061C: tabuSearchDefault (tabu.c:1098)
+    n0: 512 in 2 places, all below massif's threshold (01.00%)
+   n0: 0 in 2 places, all below massif's threshold (01.00%)
+  n0: 256 in 1 place, below massif's threshold (01.00%)
+ n0: 648 in 9 places, all below massif's threshold (01.00%)
+#-----------
+snapshot=42
+#-----------
+time=22967739465
+mem_heap_B=27292
+mem_heap_extra_B=14212
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=43
+#-----------
+time=23504032045
+mem_heap_B=27292
+mem_heap_extra_B=14212
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=44
+#-----------
+time=23861561575
+mem_heap_B=27320
+mem_heap_extra_B=14224
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=45
+#-----------
+time=24576619404
+mem_heap_B=27292
+mem_heap_extra_B=14212
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=46
+#-----------
+time=25112910995
+mem_heap_B=27292
+mem_heap_extra_B=14212
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=47
+#-----------
+time=25470439410
+mem_heap_B=27236
+mem_heap_extra_B=14188
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=48
+#-----------
+time=26006733065
+mem_heap_B=27320
+mem_heap_extra_B=14224
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=49
+#-----------
+time=26543025053
+mem_heap_B=19676
+mem_heap_extra_B=9988
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=50
+#-----------
+time=26900551767
+mem_heap_B=27320
+mem_heap_extra_B=14224
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=51
+#-----------
+time=27258078440
+mem_heap_B=27292
+mem_heap_extra_B=14212
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=52
+#-----------
+time=27615605857
+mem_heap_B=27236
+mem_heap_extra_B=14188
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=53
+#-----------
+time=27973133648
+mem_heap_B=27312
+mem_heap_extra_B=14216
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=54
+#-----------
+time=28330660202
+mem_heap_B=27312
+mem_heap_extra_B=14216
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=55
+#-----------
+time=28688186773
+mem_heap_B=27236
+mem_heap_extra_B=14188
+mem_stacks_B=0
+heap_tree=detailed
+n7: 27236 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n2: 16240 0x8049738: move_new (neigh_swap_rotate.c:9)
+  n1: 15764 0x804A16A: neighbor_new (neigh_swap_rotate.c:169)
+   n2: 15764 0x804A3AC: neighborhood_new (neigh_swap_rotate.c:221)
+    n1: 15764 0x804A46C: neighborhood_generation_inner (neigh_swap_rotate.c:242)
+     n2: 15764 0x80504FC: tabuSearchDefault (tabu.c:1058)
+      n0: 15764 0x8049678: main (main.c:223)
+      n0: 0 in 1 place, below massif's threshold (01.00%)
+    n0: 0 in 2 places, all below massif's threshold (01.00%)
+  n1: 476 0x80498A8: move_reverse (neigh_swap_rotate.c:44)
+   n1: 476 0x804E6AE: lookup_move (tabu.c:110)
+    n2: 476 0x8050552: tabuSearchDefault (tabu.c:1071)
+     n0: 476 0x8049678: main (main.c:223)
+     n0: 0 in 1 place, below massif's threshold (01.00%)
+ n1: 4504 0x804A144: neighbor_new (neigh_swap_rotate.c:164)
+  n2: 4504 0x804A3AC: neighborhood_new (neigh_swap_rotate.c:221)
+   n1: 4504 0x804A46C: neighborhood_generation_inner (neigh_swap_rotate.c:242)
+    n2: 4504 0x80504FC: tabuSearchDefault (tabu.c:1058)
+     n0: 4504 0x8049678: main (main.c:223)
+     n0: 0 in 1 place, below massif's threshold (01.00%)
+   n0: 0 in 2 places, all below massif's threshold (01.00%)
+ n2: 2252 0x804A368: neighborhood_new (neigh_swap_rotate.c:215)
+  n1: 2252 0x804A46C: neighborhood_generation_inner (neigh_swap_rotate.c:242)
+   n2: 2252 0x80504FC: tabuSearchDefault (tabu.c:1058)
+    n0: 2252 0x8049678: main (main.c:223)
+    n0: 0 in 1 place, below massif's threshold (01.00%)
+  n0: 0 in 2 places, all below massif's threshold (01.00%)
+ n3: 1544 0x804BA86: piece_new (solution.c:129)
+  n0: 576 in 16 places, all below massif's threshold (01.00%)
+  n2: 512 0x804BCD2: solution_cpy (solution.c:194)
+   n2: 512 0x805061C: tabuSearchDefault (tabu.c:1098)
+    n0: 512 0x8049678: main (main.c:223)
+    n0: 0 in 1 place, below massif's threshold (01.00%)
+   n0: 0 in 2 places, all below massif's threshold (01.00%)
+  n1: 456 0x804A28A: neighbor_into_solution (neigh_swap_rotate.c:192)
+   n2: 456 0x8050596: tabuSearchDefault (tabu.c:1079)
+    n0: 456 0x8049678: main (main.c:223)
+    n0: 0 in 1 place, below massif's threshold (01.00%)
+ n1: 1280 0x804B939: square_new (solution.c:53)
+  n1: 1280 0x8048BA3: read_input (input.c:36)
+   n0: 1280 0x80491C6: main (main.c:164)
+ n2: 768 0x804BB5F: solution_new (solution.c:159)
+  n2: 512 0x804BC56: solution_cpy (solution.c:190)
+   n1: 512 0x805061C: tabuSearchDefault (tabu.c:1098)
+    n0: 512 in 2 places, all below massif's threshold (01.00%)
+   n0: 0 in 2 places, all below massif's threshold (01.00%)
+  n0: 256 in 1 place, below massif's threshold (01.00%)
+ n0: 648 in 9 places, all below massif's threshold (01.00%)
+#-----------
+snapshot=56
+#-----------
+time=29045714716
+mem_heap_B=27292
+mem_heap_extra_B=14212
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=57
+#-----------
+time=29403241425
+mem_heap_B=27320
+mem_heap_extra_B=14224
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=58
+#-----------
+time=29760767984
+mem_heap_B=11252
+mem_heap_extra_B=5308
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=59
+#-----------
+time=30118295459
+mem_heap_B=27292
+mem_heap_extra_B=14212
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=60
+#-----------
+time=30475822691
+mem_heap_B=27320
+mem_heap_extra_B=14224
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=61
+#-----------
+time=30833349348
+mem_heap_B=27208
+mem_heap_extra_B=14176
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=62
+#-----------
+time=31190899833
+mem_heap_B=27284
+mem_heap_extra_B=14204
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=63
+#-----------
+time=31548427468
+mem_heap_B=27320
+mem_heap_extra_B=14224
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=64
+#-----------
+time=31905954203
+mem_heap_B=27208
+mem_heap_extra_B=14176
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=65
+#-----------
+time=32263481557
+mem_heap_B=27264
+mem_heap_extra_B=14200
+mem_stacks_B=0
+heap_tree=detailed
+n7: 27264 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n2: 16268 0x8049738: move_new (neigh_swap_rotate.c:9)
+  n1: 15764 0x804A16A: neighbor_new (neigh_swap_rotate.c:169)
+   n2: 15764 0x804A3AC: neighborhood_new (neigh_swap_rotate.c:221)
+    n1: 15764 0x804A46C: neighborhood_generation_inner (neigh_swap_rotate.c:242)
+     n2: 15764 0x80504FC: tabuSearchDefault (tabu.c:1058)
+      n0: 15764 0x8049678: main (main.c:223)
+      n0: 0 in 1 place, below massif's threshold (01.00%)
+    n0: 0 in 2 places, all below massif's threshold (01.00%)
+  n1: 504 0x80498A8: move_reverse (neigh_swap_rotate.c:44)
+   n1: 504 0x804E6AE: lookup_move (tabu.c:110)
+    n2: 504 0x8050552: tabuSearchDefault (tabu.c:1071)
+     n0: 504 0x8049678: main (main.c:223)
+     n0: 0 in 1 place, below massif's threshold (01.00%)
+ n1: 4504 0x804A144: neighbor_new (neigh_swap_rotate.c:164)
+  n2: 4504 0x804A3AC: neighborhood_new (neigh_swap_rotate.c:221)
+   n1: 4504 0x804A46C: neighborhood_generation_inner (neigh_swap_rotate.c:242)
+    n2: 4504 0x80504FC: tabuSearchDefault (tabu.c:1058)
+     n0: 4504 0x8049678: main (main.c:223)
+     n0: 0 in 1 place, below massif's threshold (01.00%)
+   n0: 0 in 2 places, all below massif's threshold (01.00%)
+ n2: 2252 0x804A368: neighborhood_new (neigh_swap_rotate.c:215)
+  n1: 2252 0x804A46C: neighborhood_generation_inner (neigh_swap_rotate.c:242)
+   n2: 2252 0x80504FC: tabuSearchDefault (tabu.c:1058)
+    n0: 2252 0x8049678: main (main.c:223)
+    n0: 0 in 1 place, below massif's threshold (01.00%)
+  n0: 0 in 2 places, all below massif's threshold (01.00%)
+ n3: 1544 0x804BA86: piece_new (solution.c:129)
+  n0: 584 in 16 places, all below massif's threshold (01.00%)
+  n2: 512 0x804BCD2: solution_cpy (solution.c:194)
+   n2: 512 0x805061C: tabuSearchDefault (tabu.c:1098)
+    n0: 512 0x8049678: main (main.c:223)
+    n0: 0 in 1 place, below massif's threshold (01.00%)
+   n0: 0 in 2 places, all below massif's threshold (01.00%)
+  n1: 448 0x804A28A: neighbor_into_solution (neigh_swap_rotate.c:192)
+   n2: 448 0x8050596: tabuSearchDefault (tabu.c:1079)
+    n0: 448 0x8049678: main (main.c:223)
+    n0: 0 in 1 place, below massif's threshold (01.00%)
+ n1: 1280 0x804B939: square_new (solution.c:53)
+  n1: 1280 0x8048BA3: read_input (input.c:36)
+   n0: 1280 0x80491C6: main (main.c:164)
+ n2: 768 0x804BB5F: solution_new (solution.c:159)
+  n2: 512 0x804BC56: solution_cpy (solution.c:190)
+   n1: 512 0x805061C: tabuSearchDefault (tabu.c:1098)
+    n0: 512 in 2 places, all below massif's threshold (01.00%)
+   n0: 0 in 2 places, all below massif's threshold (01.00%)
+  n0: 256 in 1 place, below massif's threshold (01.00%)
+ n0: 648 in 9 places, all below massif's threshold (01.00%)
+#-----------
+snapshot=66
+#-----------
+time=32621009226
+mem_heap_B=27320
+mem_heap_extra_B=14224
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=67
+#-----------
+time=32978535808
+mem_heap_B=11260
+mem_heap_extra_B=5316
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=68
+#-----------
+time=33336062397
+mem_heap_B=27264
+mem_heap_extra_B=14200
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=69
+#-----------
+time=33693589940
+mem_heap_B=27320
+mem_heap_extra_B=14224
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=70
+#-----------
+time=34051116758
+mem_heap_B=27236
+mem_heap_extra_B=14188
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=71
+#-----------
+time=34408654482
+mem_heap_B=27284
+mem_heap_extra_B=14204
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=72
+#-----------
+time=34766181162
+mem_heap_B=27320
+mem_heap_extra_B=14224
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=73
+#-----------
+time=35123709151
+mem_heap_B=27236
+mem_heap_extra_B=14188
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=74
+#-----------
+time=35481235791
+mem_heap_B=27264
+mem_heap_extra_B=14200
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=75
+#-----------
+time=35838762625
+mem_heap_B=27320
+mem_heap_extra_B=14224
+mem_stacks_B=0
+heap_tree=detailed
+n7: 27320 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n2: 16324 0x8049738: move_new (neigh_swap_rotate.c:9)
+  n1: 15764 0x804A16A: neighbor_new (neigh_swap_rotate.c:169)
+   n2: 15764 0x804A3AC: neighborhood_new (neigh_swap_rotate.c:221)
+    n1: 15764 0x804A46C: neighborhood_generation_inner (neigh_swap_rotate.c:242)
+     n2: 15764 0x80504FC: tabuSearchDefault (tabu.c:1058)
+      n0: 15764 0x8049678: main (main.c:223)
+      n0: 0 in 1 place, below massif's threshold (01.00%)
+    n0: 0 in 2 places, all below massif's threshold (01.00%)
+  n1: 560 0x80498A8: move_reverse (neigh_swap_rotate.c:44)
+   n1: 560 0x804E6AE: lookup_move (tabu.c:110)
+    n2: 560 0x8050552: tabuSearchDefault (tabu.c:1071)
+     n0: 560 0x8049678: main (main.c:223)
+     n0: 0 in 1 place, below massif's threshold (01.00%)
+ n1: 4504 0x804A144: neighbor_new (neigh_swap_rotate.c:164)
+  n2: 4504 0x804A3AC: neighborhood_new (neigh_swap_rotate.c:221)
+   n1: 4504 0x804A46C: neighborhood_generation_inner (neigh_swap_rotate.c:242)
+    n2: 4504 0x80504FC: tabuSearchDefault (tabu.c:1058)
+     n0: 4504 0x8049678: main (main.c:223)
+     n0: 0 in 1 place, below massif's threshold (01.00%)
+   n0: 0 in 2 places, all below massif's threshold (01.00%)
+ n2: 2252 0x804A368: neighborhood_new (neigh_swap_rotate.c:215)
+  n1: 2252 0x804A46C: neighborhood_generation_inner (neigh_swap_rotate.c:242)
+   n2: 2252 0x80504FC: tabuSearchDefault (tabu.c:1058)
+    n0: 2252 0x8049678: main (main.c:223)
+    n0: 0 in 1 place, below massif's threshold (01.00%)
+  n0: 0 in 2 places, all below massif's threshold (01.00%)
+ n3: 1544 0x804BA86: piece_new (solution.c:129)
+  n0: 568 in 16 places, all below massif's threshold (01.00%)
+  n2: 512 0x804BCD2: solution_cpy (solution.c:194)
+   n2: 512 0x805061C: tabuSearchDefault (tabu.c:1098)
+    n0: 512 0x8049678: main (main.c:223)
+    n0: 0 in 1 place, below massif's threshold (01.00%)
+   n0: 0 in 2 places, all below massif's threshold (01.00%)
+  n1: 464 0x804A28A: neighbor_into_solution (neigh_swap_rotate.c:192)
+   n2: 464 0x8050596: tabuSearchDefault (tabu.c:1079)
+    n0: 464 0x8049678: main (main.c:223)
+    n0: 0 in 1 place, below massif's threshold (01.00%)
+ n1: 1280 0x804B939: square_new (solution.c:53)
+  n1: 1280 0x8048BA3: read_input (input.c:36)
+   n0: 1280 0x80491C6: main (main.c:164)
+ n2: 768 0x804BB5F: solution_new (solution.c:159)
+  n2: 512 0x804BC56: solution_cpy (solution.c:190)
+   n1: 512 0x805061C: tabuSearchDefault (tabu.c:1098)
+    n0: 512 in 2 places, all below massif's threshold (01.00%)
+   n0: 0 in 2 places, all below massif's threshold (01.00%)
+  n0: 256 in 1 place, below massif's threshold (01.00%)
+ n0: 648 in 9 places, all below massif's threshold (01.00%)
+#-----------
+snapshot=76
+#-----------
+time=36196289179
+mem_heap_B=4872
+mem_heap_extra_B=2944
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=77
+#-----------
+time=36553815851
+mem_heap_B=27264
+mem_heap_extra_B=14200
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=78
+#-----------
+time=36911343030
+mem_heap_B=27320
+mem_heap_extra_B=14224
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=79
+#-----------
+time=37268870735
+mem_heap_B=27264
+mem_heap_extra_B=14200
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=80
+#-----------
+time=37626397877
+mem_heap_B=27292
+mem_heap_extra_B=14212
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=81
+#-----------
+time=37983925156
+mem_heap_B=27320
+mem_heap_extra_B=14224
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=82
+#-----------
+time=38341452386
+mem_heap_B=27264
+mem_heap_extra_B=14200
+mem_stacks_B=0
+heap_tree=empty

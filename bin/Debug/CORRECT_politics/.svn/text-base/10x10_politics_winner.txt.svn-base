@@ -1,0 +1,48 @@
+----------------------
+BEST_SOLUTION_POLITIC
+TabuListsNumber: TRIPLE
+CornerGenerator: CCORNER_FIRST
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+MaximumScore: 180
+AverageScore: 152.278
+AverageSolutionQuality: 84.599%
+BestScoreOverall: 165
+BestSolutionQuality: 91.667%
+----------------------
+----------------------
+AVERAGE_SOLUTION_POLITIC
+TabuListsNumber: TRIPLE
+CornerGenerator: CCORNER_FIRST
+EdgeGenerator: EEDGE_NEXT
+InnerGenerator: IINNER_NEXT
+MaximumScore: 180
+AverageScore: 154.345
+AverageSolutionQuality: 85.747%
+BestScoreOverall: 163
+BestSolutionQuality: 90.556%
+----------------------
+----------------------
+BEST_SOLUTION_POLITIC
+TabuListsNumber: TRIPLE
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+MaximumScore: 180
+AverageScore: 152.278
+AverageSolutionQuality: 84.599%
+BestScoreOverall: 165
+BestSolutionQuality: 91.667%
+----------------------
+----------------------
+AVERAGE_SOLUTION_POLITIC
+TabuListsNumber: TRIPLE
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_NEXT
+InnerGenerator: IINNER_NEXT
+MaximumScore: 180
+AverageScore: 154.345
+AverageSolutionQuality: 85.747%
+BestScoreOverall: 163
+BestSolutionQuality: 90.556%
+----------------------

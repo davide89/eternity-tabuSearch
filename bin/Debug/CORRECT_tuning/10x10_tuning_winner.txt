@@ -1,0 +1,110 @@
+----------------------
+IN_RANGE_TUNING
+TabuSizeCorner: 3
+TabuSizeEdge: 8
+TabuSizeInner: 14
+ExpireTime: 26
+MaximumScore: 180
+AverageScore: 158.200
+AverageSolutionQuality: 87.889%
+----------------------
+----------------------
+IN_RANGE_TUNING
+TabuSizeCorner: 3
+TabuSizeEdge: 12
+TabuSizeInner: 14
+ExpireTime: 28
+MaximumScore: 180
+AverageScore: 158.400
+AverageSolutionQuality: 88.000%
+----------------------
+----------------------
+IN_RANGE_TUNING
+TabuSizeCorner: 3
+TabuSizeEdge: 14
+TabuSizeInner: 6
+ExpireTime: 28
+MaximumScore: 180
+AverageScore: 157.200
+AverageSolutionQuality: 87.333%
+----------------------
+----------------------
+IN_RANGE_TUNING
+TabuSizeCorner: 3
+TabuSizeEdge: 6
+TabuSizeInner: 14
+ExpireTime: 30
+MaximumScore: 180
+AverageScore: 157.800
+AverageSolutionQuality: 87.667%
+----------------------
+----------------------
+IN_RANGE_TUNING
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+MaximumScore: 180
+AverageScore: 157.200
+AverageSolutionQuality: 87.333%
+----------------------
+----------------------
+IN_RANGE_TUNING
+TabuSizeCorner: 3
+TabuSizeEdge: 14
+TabuSizeInner: 10
+ExpireTime: 34
+MaximumScore: 180
+AverageScore: 157.200
+AverageSolutionQuality: 87.333%
+----------------------
+----------------------
+BEST_TUNING
+TabuSizeCorner: 3
+TabuSizeEdge: 12
+TabuSizeInner: 12
+ExpireTime: 36
+MaximumScore: 180
+AverageScore: 159.000
+AverageSolutionQuality: 88.333%
+----------------------
+----------------------
+IN_RANGE_TUNING
+TabuSizeCorner: 4
+TabuSizeEdge: 8
+TabuSizeInner: 10
+ExpireTime: 28
+MaximumScore: 180
+AverageScore: 157.100
+AverageSolutionQuality: 87.278%
+----------------------
+----------------------
+IN_RANGE_TUNING
+TabuSizeCorner: 4
+TabuSizeEdge: 12
+TabuSizeInner: 8
+ExpireTime: 28
+MaximumScore: 180
+AverageScore: 157.000
+AverageSolutionQuality: 87.222%
+----------------------
+----------------------
+IN_RANGE_TUNING
+TabuSizeCorner: 4
+TabuSizeEdge: 12
+TabuSizeInner: 12
+ExpireTime: 32
+MaximumScore: 180
+AverageScore: 157.500
+AverageSolutionQuality: 87.500%
+----------------------
+----------------------
+IN_RANGE_TUNING
+TabuSizeCorner: 4
+TabuSizeEdge: 12
+TabuSizeInner: 12
+ExpireTime: 36
+MaximumScore: 180
+AverageScore: 158.100
+AverageSolutionQuality: 87.833%
+----------------------

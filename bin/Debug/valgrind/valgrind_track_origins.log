@@ -1,0 +1,31 @@
+==10164== Memcheck, a memory error detector
+==10164== Copyright (C) 2002-2010, and GNU GPL'd, by Julian Seward et al.
+==10164== Using Valgrind-3.6.1 and LibVEX; rerun with -h for copyright info
+==10164== Command: ./eternity ../../pieces_05x05.txt ../../05x05_output.txt
+==10164== Parent PID: 10163
+==10164== 
+==10164== 
+==10164== HEAP SUMMARY:
+==10164==     in use at exit: 600 bytes in 26 blocks
+==10164==   total heap usage: 1,983,775 allocs, 1,983,749 frees, 27,594,952 bytes allocated
+==10164== 
+==10164== 100 bytes in 1 blocks are still reachable in loss record 1 of 2
+==10164==    at 0x4026864: malloc (vg_replace_malloc.c:236)
+==10164==    by 0x80488E4: read_input (input.c:25)
+==10164==    by 0x8048AFC: main (main.c:31)
+==10164== 
+==10164== 500 bytes in 25 blocks are still reachable in loss record 2 of 2
+==10164==    at 0x4026864: malloc (vg_replace_malloc.c:236)
+==10164==    by 0x804ADA6: square_new (solution.c:53)
+==10164==    by 0x8048994: read_input (input.c:36)
+==10164==    by 0x8048AFC: main (main.c:31)
+==10164== 
+==10164== LEAK SUMMARY:
+==10164==    definitely lost: 0 bytes in 0 blocks
+==10164==    indirectly lost: 0 bytes in 0 blocks
+==10164==      possibly lost: 0 bytes in 0 blocks
+==10164==    still reachable: 600 bytes in 26 blocks
+==10164==         suppressed: 0 bytes in 0 blocks
+==10164== 
+==10164== For counts of detected and suppressed errors, rerun with: -v
+==10164== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 17 from 6)

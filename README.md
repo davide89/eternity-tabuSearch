@@ -1,83 +1,89 @@
-eternity-tabuSearch
-===================
+eternity-tabu
+=============
 
 Eternity II solver based on a Tabu Search approach.
 
-During our Optmization Methods and Algotihms course, professor has given us an assignement: to write an Eternity II solver based on a Tabu Search approach. Here it is our desperate attempt.
+During our Optmization Methods and Algotihms course, professor has given us an assignement: to write an Eternity II solver based on a Tabu Search approach. Here it is our desperate attempt. 
 
-DOWNLOAD
+### DOWNLOAD
 
 You can download the Linux 32 bit version from the Download folder
 
-DEFAULT RUN
+### DEFAULT RUN
 
-The program uses the default values already set during the tuning phase.
-The states the number of iterations before stop
-The enable the multi-start mechanism. It indicates the number of steps the best solution can not be improved before diversification. To disable it, please insert the same value of
-The parameter is an integer value > 1 used as seed in the solution initialization and diversification
-The software prints to stdout some stats during the run
-./eternity <pieces_input> <pieces_output> <max_steps_threshold> <not_improving_steps_threshold> <random_seed>
+* The program uses the default values already set during the tuning phase.
+* The <max_steps_threshold> states the number of iterations before stop
+* The <not_improving_steps_threshold> enable the multi-start mechanism. It indicates the number of steps the best solution can not be improved before diversification. To disable it, please insert the same value of <max_steps_threshold>
+* The <random_seed> parameter is an integer value > 1 used as seed in the solution initialization and diversification
+* The software prints to stdout some stats during the run  
 
-Example:
+`./eternity <pieces_input> <pieces_output> <max_steps_threshold> <not_improving_steps_threshold> <random_seed>` 
 
-./eternity pieces_10x10.txt 10x10_out.txt 100000 100000 484
+__Example:__
 
-CUSTOM RUN
+`./eternity pieces_10x10.txt 10x10_out.txt 100000 100000 484`
 
-File Input Name
 
-File Output Name
+### CUSTOM RUN
 
-Tabu List Single/Triple:
+1. File Input Name
 
-SINGLE
+2. File Output Name
 
-TRIPLE
+3. Tabu List Single/Triple:
+    
+    SINGLE
+    
+    TRIPLE
 
-Tabu Size Corner: INTEGER
+4. Tabu Size Corner: INTEGER
 
-Tabu Size Edge: INTEGER
+5. Tabu Size Edge: INTEGER
 
-Tabu Size Inner: INTEGER
+6. Tabu Size Inner: INTEGER
 
-Expiration Time: INTEGER
+7. Expiration Time: INTEGER
 
-Max Steps Threshold: INTEGER
+8. Max Steps Threshold: INTEGER
 
-Not Improving Steps Threshold: INTEGER
+9. Not Improving Steps Threshold: INTEGER
 
-Corner Generator:
+10. Corner Generator:
+    
+    CCORNER_FIRST
+    
+    CCORNER_NEXT
+    
+    CCORNER_OPPOSITE
 
-CCORNER_FIRST
+11. Edge Generator:
 
-CCORNER_NEXT
+    EEDGE_FIRST
+    
+    EEDGE_NEXT
+    
+    EEDGE_NEXT_ANTI
+    
+    EEDGE_POS_OPPOSITE
 
-CCORNER_OPPOSITE
+12. Inner Generator
 
-Edge Generator:
+    IINNER_NEXT
+    
+    IINNER_OPPOSITE
+    
+    IINNER_OPPOSITE_AUX
+    
+    IINNER_RAND
 
-EEDGE_FIRST
+13. Random Initial Solution:
 
-EEDGE_NEXT
+    STATIC_START
+    
+    RANDOM_START
 
-EEDGE_NEXT_ANTI
+14. Randomization Seed: INTEGER
 
-EEDGE_POS_OPPOSITE
+__Example:__
 
-Inner Generator
-
-IINNER_NEXT
-
-IINNER_OPPOSITE
-
-IINNER_OPPOSITE_AUX
-
-IINNER_RAND
-
-Random Initial Solution:
-
-STATIC_START
-
-RANDOM_START
-
-Randomization Seed: INTEGER
+`./eternity pieces_10x10.txt 10x10_output.txt TRIPLE 3 10 10 30 100000 100000 CCORNER_NEXT EEDGE_POS_OPPOSITE IINNER_NEXT RANDOM_START 484`

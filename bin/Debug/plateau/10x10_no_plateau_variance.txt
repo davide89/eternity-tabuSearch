@@ -1,0 +1,8 @@
+----------------------
+TabuSizeCorner: 9
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+Variance: 19.625
+StandardDev: 4.430
+----------------------

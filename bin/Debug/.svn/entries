@@ -1,0 +1,104 @@
+10
+
+dir
+124
+https://eternity-tabu.googlecode.com/svn/trunk/bin/Debug
+https://eternity-tabu.googlecode.com/svn
+
+
+
+2012-05-05T19:49:06.706617Z
+123
+antonio.uccio.verardi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8be21376-4928-501e-6e0e-032b439d7bce
+
+plateau
+dir
+
+input
+dir
+
+output
+dir
+
+eternity
+file
+
+
+
+
+2013-06-06T17:47:52.514630Z
+0531eefc2ba4627b48feb6c41e58f58a
+2012-05-05T19:49:06.706617Z
+123
+antonio.uccio.verardi
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+156072
+
+tuning
+dir
+
+valgrind
+dir
+
+CORRECT_politics
+dir
+
+multi_start
+dir
+
+memory
+dir
+
+data
+dir
+
+CORRECT_tuning
+dir
+
+fine_tuning_1
+dir
+
+politics
+dir
+
+fine_tuning_2
+dir
+
+CORRECT_fine_tuning
+dir
+

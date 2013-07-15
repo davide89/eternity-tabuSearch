@@ -1,0 +1,2158 @@
+pieces_10x10.txt
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 1
+------------------------------------
+StartScore: 24
+SecondStartScore: 122
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 21
+TabuListHit: 27472
+BestScoreStep: 80411
+BestScore: 156
+SolutionQuality: 86.667%
+------------------------------------
+ExecutionTime: 26.510178
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 2
+------------------------------------
+StartScore: 18
+SecondStartScore: 131
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 16
+TabuListHit: 13845
+BestScoreStep: 5297
+BestScore: 148
+SolutionQuality: 82.222%
+------------------------------------
+ExecutionTime: 32.873346
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 3
+------------------------------------
+StartScore: 25
+SecondStartScore: 130
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 19
+TabuListHit: 8089
+BestScoreStep: 16085
+BestScore: 152
+SolutionQuality: 84.444%
+------------------------------------
+ExecutionTime: 29.447266
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 4
+------------------------------------
+StartScore: 18
+SecondStartScore: 117
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 20
+TabuListHit: 27931
+BestScoreStep: 56942
+BestScore: 158
+SolutionQuality: 87.778%
+------------------------------------
+ExecutionTime: 29.782902
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 5
+------------------------------------
+StartScore: 26
+SecondStartScore: 136
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 18
+TabuListHit: 26596
+BestScoreStep: 15348
+BestScore: 156
+SolutionQuality: 86.667%
+------------------------------------
+ExecutionTime: 29.779344
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 6
+------------------------------------
+StartScore: 27
+SecondStartScore: 128
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 22
+TabuListHit: 27772
+BestScoreStep: 62215
+BestScore: 158
+SolutionQuality: 87.778%
+------------------------------------
+ExecutionTime: 31.517009
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 7
+------------------------------------
+StartScore: 17
+SecondStartScore: 101
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 19
+TabuListHit: 27390
+BestScoreStep: 76755
+BestScore: 160
+SolutionQuality: 88.889%
+------------------------------------
+ExecutionTime: 29.400734
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 8
+------------------------------------
+StartScore: 26
+SecondStartScore: 127
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 16
+TabuListHit: 19865
+BestScoreStep: 46559
+BestScore: 154
+SolutionQuality: 85.556%
+------------------------------------
+ExecutionTime: 30.483343
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 9
+------------------------------------
+StartScore: 22
+SecondStartScore: 121
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 19
+TabuListHit: 19401
+BestScoreStep: 9694
+BestScore: 153
+SolutionQuality: 85.000%
+------------------------------------
+ExecutionTime: 31.540470
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 10
+------------------------------------
+StartScore: 24
+SecondStartScore: 136
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 21
+TabuListHit: 20367
+BestScoreStep: 38991
+BestScore: 157
+SolutionQuality: 87.222%
+------------------------------------
+ExecutionTime: 31.057535
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 11
+------------------------------------
+StartScore: 19
+SecondStartScore: 133
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 16
+TabuListHit: 28826
+BestScoreStep: 31735
+BestScore: 154
+SolutionQuality: 85.556%
+------------------------------------
+ExecutionTime: 31.531116
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 12
+------------------------------------
+StartScore: 18
+SecondStartScore: 132
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 17
+TabuListHit: 11817
+BestScoreStep: 17069
+BestScore: 153
+SolutionQuality: 85.000%
+------------------------------------
+ExecutionTime: 30.502940
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 13
+------------------------------------
+StartScore: 28
+SecondStartScore: 131
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 20
+TabuListHit: 27933
+BestScoreStep: 54615
+BestScore: 155
+SolutionQuality: 86.111%
+------------------------------------
+ExecutionTime: 30.890081
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 14
+------------------------------------
+StartScore: 30
+SecondStartScore: 115
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 18
+TabuListHit: 25588
+BestScoreStep: 3575
+BestScore: 151
+SolutionQuality: 83.889%
+------------------------------------
+ExecutionTime: 29.376038
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 15
+------------------------------------
+StartScore: 26
+SecondStartScore: 142
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 17
+TabuListHit: 16306
+BestScoreStep: 33719
+BestScore: 155
+SolutionQuality: 86.111%
+------------------------------------
+ExecutionTime: 31.920329
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 16
+------------------------------------
+StartScore: 28
+SecondStartScore: 125
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 19
+TabuListHit: 28190
+BestScoreStep: 55615
+BestScore: 156
+SolutionQuality: 86.667%
+------------------------------------
+ExecutionTime: 29.687530
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 17
+------------------------------------
+StartScore: 23
+SecondStartScore: 130
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 20
+TabuListHit: 27138
+BestScoreStep: 58882
+BestScore: 160
+SolutionQuality: 88.889%
+------------------------------------
+ExecutionTime: 30.677813
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 18
+------------------------------------
+StartScore: 23
+SecondStartScore: 115
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 18
+TabuListHit: 23977
+BestScoreStep: 43883
+BestScore: 154
+SolutionQuality: 85.556%
+------------------------------------
+ExecutionTime: 28.344729
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 19
+------------------------------------
+StartScore: 21
+SecondStartScore: 127
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 17
+TabuListHit: 26548
+BestScoreStep: 36898
+BestScore: 154
+SolutionQuality: 85.556%
+------------------------------------
+ExecutionTime: 28.457234
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 20
+------------------------------------
+StartScore: 19
+SecondStartScore: 112
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 20
+TabuListHit: 23518
+BestScoreStep: 53048
+BestScore: 154
+SolutionQuality: 85.556%
+------------------------------------
+ExecutionTime: 30.585508
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 22
+------------------------------------
+StartScore: 25
+SecondStartScore: 119
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 22
+TabuListHit: 28099
+BestScoreStep: 18788
+BestScore: 157
+SolutionQuality: 87.222%
+------------------------------------
+ExecutionTime: 29.339931
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 23
+------------------------------------
+StartScore: 24
+SecondStartScore: 134
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 20
+TabuListHit: 13976
+BestScoreStep: 16666
+BestScore: 153
+SolutionQuality: 85.000%
+------------------------------------
+ExecutionTime: 29.789805
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 24
+------------------------------------
+StartScore: 31
+SecondStartScore: 134
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 19
+TabuListHit: 28367
+BestScoreStep: 6481
+BestScore: 156
+SolutionQuality: 86.667%
+------------------------------------
+ExecutionTime: 29.001806
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 25
+------------------------------------
+StartScore: 30
+SecondStartScore: 138
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 15
+TabuListHit: 26515
+BestScoreStep: 1683
+BestScore: 142
+SolutionQuality: 78.889%
+------------------------------------
+ExecutionTime: 32.892339
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 26
+------------------------------------
+StartScore: 21
+SecondStartScore: 140
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 20
+TabuListHit: 23190
+BestScoreStep: 36326
+BestScore: 158
+SolutionQuality: 87.778%
+------------------------------------
+ExecutionTime: 29.036673
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 27
+------------------------------------
+StartScore: 31
+SecondStartScore: 114
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 17
+TabuListHit: 11383
+BestScoreStep: 15339
+BestScore: 154
+SolutionQuality: 85.556%
+------------------------------------
+ExecutionTime: 30.339607
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 28
+------------------------------------
+StartScore: 22
+SecondStartScore: 128
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 18
+TabuListHit: 17981
+BestScoreStep: 7515
+BestScore: 151
+SolutionQuality: 83.889%
+------------------------------------
+ExecutionTime: 31.120404
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 29
+------------------------------------
+StartScore: 25
+SecondStartScore: 128
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 18
+TabuListHit: 17104
+BestScoreStep: 7213
+BestScore: 155
+SolutionQuality: 86.111%
+------------------------------------
+ExecutionTime: 30.592973
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 30
+------------------------------------
+StartScore: 27
+SecondStartScore: 121
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 17
+TabuListHit: 25959
+BestScoreStep: 15593
+BestScore: 153
+SolutionQuality: 85.000%
+------------------------------------
+ExecutionTime: 30.298573
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 31
+------------------------------------
+StartScore: 25
+SecondStartScore: 128
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 18
+TabuListHit: 27362
+BestScoreStep: 59062
+BestScore: 154
+SolutionQuality: 85.556%
+------------------------------------
+ExecutionTime: 29.659204
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 32
+------------------------------------
+StartScore: 20
+SecondStartScore: 134
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 18
+TabuListHit: 27359
+BestScoreStep: 87982
+BestScore: 159
+SolutionQuality: 88.333%
+------------------------------------
+ExecutionTime: 32.390972
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 33
+------------------------------------
+StartScore: 18
+SecondStartScore: 122
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 15
+TabuListHit: 18241
+BestScoreStep: 10615
+BestScore: 154
+SolutionQuality: 85.556%
+------------------------------------
+ExecutionTime: 31.769772
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 34
+------------------------------------
+StartScore: 28
+SecondStartScore: 132
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 17
+TabuListHit: 23975
+BestScoreStep: 21566
+BestScore: 155
+SolutionQuality: 86.111%
+------------------------------------
+ExecutionTime: 34.969446
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 35
+------------------------------------
+StartScore: 24
+SecondStartScore: 112
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 15
+TabuListHit: 22711
+BestScoreStep: 8486
+BestScore: 155
+SolutionQuality: 86.111%
+------------------------------------
+ExecutionTime: 32.929719
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 36
+------------------------------------
+StartScore: 27
+SecondStartScore: 122
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 15
+TabuListHit: 25060
+BestScoreStep: 2918
+BestScore: 148
+SolutionQuality: 82.222%
+------------------------------------
+ExecutionTime: 33.102504
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 37
+------------------------------------
+StartScore: 22
+SecondStartScore: 125
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 20
+TabuListHit: 27071
+BestScoreStep: 62560
+BestScore: 162
+SolutionQuality: 90.000%
+------------------------------------
+ExecutionTime: 28.696302
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 38
+------------------------------------
+StartScore: 24
+SecondStartScore: 132
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 19
+TabuListHit: 24778
+BestScoreStep: 22220
+BestScore: 156
+SolutionQuality: 86.667%
+------------------------------------
+ExecutionTime: 29.384879
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 39
+------------------------------------
+StartScore: 27
+SecondStartScore: 135
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 17
+TabuListHit: 21385
+BestScoreStep: 21693
+BestScore: 159
+SolutionQuality: 88.333%
+------------------------------------
+ExecutionTime: 29.932358
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 40
+------------------------------------
+StartScore: 22
+SecondStartScore: 130
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 21
+TabuListHit: 25826
+BestScoreStep: 21362
+BestScore: 153
+SolutionQuality: 85.000%
+------------------------------------
+ExecutionTime: 32.196749
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 41
+------------------------------------
+StartScore: 20
+SecondStartScore: 128
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 19
+TabuListHit: 22186
+BestScoreStep: 11845
+BestScore: 151
+SolutionQuality: 83.889%
+------------------------------------
+ExecutionTime: 31.366759
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 42
+------------------------------------
+StartScore: 24
+SecondStartScore: 133
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 18
+TabuListHit: 19275
+BestScoreStep: 32275
+BestScore: 154
+SolutionQuality: 85.556%
+------------------------------------
+ExecutionTime: 30.466517
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 43
+------------------------------------
+StartScore: 18
+SecondStartScore: 131
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 21
+TabuListHit: 28189
+BestScoreStep: 23526
+BestScore: 156
+SolutionQuality: 86.667%
+------------------------------------
+ExecutionTime: 29.137423
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 44
+------------------------------------
+StartScore: 20
+SecondStartScore: 124
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 18
+TabuListHit: 27788
+BestScoreStep: 35801
+BestScore: 160
+SolutionQuality: 88.889%
+------------------------------------
+ExecutionTime: 33.592884
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 45
+------------------------------------
+StartScore: 17
+SecondStartScore: 122
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 16
+TabuListHit: 22766
+BestScoreStep: 13289
+BestScore: 153
+SolutionQuality: 85.000%
+------------------------------------
+ExecutionTime: 29.302401
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 46
+------------------------------------
+StartScore: 26
+SecondStartScore: 130
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 18
+TabuListHit: 24376
+BestScoreStep: 76619
+BestScore: 157
+SolutionQuality: 87.222%
+------------------------------------
+ExecutionTime: 30.524243
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 47
+------------------------------------
+StartScore: 23
+SecondStartScore: 117
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 17
+TabuListHit: 17324
+BestScoreStep: 2541
+BestScore: 146
+SolutionQuality: 81.111%
+------------------------------------
+ExecutionTime: 28.530387
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 48
+------------------------------------
+StartScore: 27
+SecondStartScore: 115
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 17
+TabuListHit: 26356
+BestScoreStep: 6664
+BestScore: 159
+SolutionQuality: 88.333%
+------------------------------------
+ExecutionTime: 31.446366
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 49
+------------------------------------
+StartScore: 32
+SecondStartScore: 115
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 20
+TabuListHit: 29301
+BestScoreStep: 35659
+BestScore: 153
+SolutionQuality: 85.000%
+------------------------------------
+ExecutionTime: 32.557221
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 50
+------------------------------------
+StartScore: 27
+SecondStartScore: 110
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 16
+TabuListHit: 31553
+BestScoreStep: 23545
+BestScore: 154
+SolutionQuality: 85.556%
+------------------------------------
+ExecutionTime: 31.372206
+####################################
+pieces_10x10.txt
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 51
+------------------------------------
+StartScore: 23
+SecondStartScore: 135
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 17
+TabuListHit: 25768
+BestScoreStep: 61611
+BestScore: 159
+SolutionQuality: 88.333%
+------------------------------------
+ExecutionTime: 32.309560
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 52
+------------------------------------
+StartScore: 24
+SecondStartScore: 141
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 20
+TabuListHit: 25220
+BestScoreStep: 24748
+BestScore: 157
+SolutionQuality: 87.222%
+------------------------------------
+ExecutionTime: 29.003756
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 53
+------------------------------------
+StartScore: 21
+SecondStartScore: 122
+------------------------------------
+RESULTS
+CurrentStep: 15655
+MaxNotImproving: 17
+TabuListHit: 4500
+BestScoreStep: 13235
+BestScore: 152
+SolutionQuality: 84.444%
+------------------------------------
+ExecutionTime: 4.645770
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 54
+------------------------------------
+StartScore: 28
+SecondStartScore: 115
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 19
+TabuListHit: 27536
+BestScoreStep: 58759
+BestScore: 155
+SolutionQuality: 86.111%
+------------------------------------
+ExecutionTime: 28.782824
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 55
+------------------------------------
+StartScore: 13
+SecondStartScore: 124
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 13
+TabuListHit: 26588
+BestScoreStep: 4884
+BestScore: 150
+SolutionQuality: 83.333%
+------------------------------------
+ExecutionTime: 30.188765
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 56
+------------------------------------
+StartScore: 28
+SecondStartScore: 135
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 17
+TabuListHit: 18695
+BestScoreStep: 17444
+BestScore: 155
+SolutionQuality: 86.111%
+------------------------------------
+ExecutionTime: 31.181614
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 57
+------------------------------------
+StartScore: 24
+SecondStartScore: 129
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 17
+TabuListHit: 21733
+BestScoreStep: 60284
+BestScore: 153
+SolutionQuality: 85.000%
+------------------------------------
+ExecutionTime: 30.005123
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 58
+------------------------------------
+StartScore: 17
+SecondStartScore: 132
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 17
+TabuListHit: 18753
+BestScoreStep: 20277
+BestScore: 156
+SolutionQuality: 86.667%
+------------------------------------
+ExecutionTime: 29.135823
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 59
+------------------------------------
+StartScore: 26
+SecondStartScore: 127
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 16
+TabuListHit: 23610
+BestScoreStep: 8637
+BestScore: 155
+SolutionQuality: 86.111%
+------------------------------------
+ExecutionTime: 29.532825
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 60
+------------------------------------
+StartScore: 26
+SecondStartScore: 117
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 16
+TabuListHit: 24587
+BestScoreStep: 12097
+BestScore: 153
+SolutionQuality: 85.000%
+------------------------------------
+ExecutionTime: 32.019956
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 61
+------------------------------------
+StartScore: 12
+SecondStartScore: 124
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 20
+TabuListHit: 25953
+BestScoreStep: 35489
+BestScore: 157
+SolutionQuality: 87.222%
+------------------------------------
+ExecutionTime: 31.922240
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 62
+------------------------------------
+StartScore: 23
+SecondStartScore: 135
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 18
+TabuListHit: 28056
+BestScoreStep: 17764
+BestScore: 160
+SolutionQuality: 88.889%
+------------------------------------
+ExecutionTime: 30.246764
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 63
+------------------------------------
+StartScore: 17
+SecondStartScore: 136
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 16
+TabuListHit: 28991
+BestScoreStep: 5916
+BestScore: 150
+SolutionQuality: 83.333%
+------------------------------------
+ExecutionTime: 32.171072
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 64
+------------------------------------
+StartScore: 30
+SecondStartScore: 129
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 21
+TabuListHit: 29727
+BestScoreStep: 32692
+BestScore: 154
+SolutionQuality: 85.556%
+------------------------------------
+ExecutionTime: 32.461946
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 65
+------------------------------------
+StartScore: 31
+SecondStartScore: 128
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 18
+TabuListHit: 14552
+BestScoreStep: 32885
+BestScore: 153
+SolutionQuality: 85.000%
+------------------------------------
+ExecutionTime: 33.023490
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 66
+------------------------------------
+StartScore: 20
+SecondStartScore: 125
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 19
+TabuListHit: 25607
+BestScoreStep: 28646
+BestScore: 154
+SolutionQuality: 85.556%
+------------------------------------
+ExecutionTime: 30.565583
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 67
+------------------------------------
+StartScore: 28
+SecondStartScore: 122
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 17
+TabuListHit: 29027
+BestScoreStep: 22768
+BestScore: 155
+SolutionQuality: 86.111%
+------------------------------------
+ExecutionTime: 30.424347
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 68
+------------------------------------
+StartScore: 27
+SecondStartScore: 129
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 18
+TabuListHit: 29543
+BestScoreStep: 45890
+BestScore: 155
+SolutionQuality: 86.111%
+------------------------------------
+ExecutionTime: 28.823467
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 69
+------------------------------------
+StartScore: 23
+SecondStartScore: 135
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 17
+TabuListHit: 23017
+BestScoreStep: 38173
+BestScore: 159
+SolutionQuality: 88.333%
+------------------------------------
+ExecutionTime: 30.283826
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 70
+------------------------------------
+StartScore: 15
+SecondStartScore: 125
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 19
+TabuListHit: 25042
+BestScoreStep: 21418
+BestScore: 156
+SolutionQuality: 86.667%
+------------------------------------
+ExecutionTime: 30.004211
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 72
+------------------------------------
+StartScore: 24
+SecondStartScore: 127
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 19
+TabuListHit: 23262
+BestScoreStep: 57422
+BestScore: 153
+SolutionQuality: 85.000%
+------------------------------------
+ExecutionTime: 29.497609
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 73
+------------------------------------
+StartScore: 20
+SecondStartScore: 135
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 16
+TabuListHit: 20207
+BestScoreStep: 4039
+BestScore: 151
+SolutionQuality: 83.889%
+------------------------------------
+ExecutionTime: 28.069719
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 74
+------------------------------------
+StartScore: 23
+SecondStartScore: 128
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 17
+TabuListHit: 23251
+BestScoreStep: 17007
+BestScore: 155
+SolutionQuality: 86.111%
+------------------------------------
+ExecutionTime: 28.227964
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 75
+------------------------------------
+StartScore: 21
+SecondStartScore: 132
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 16
+TabuListHit: 21015
+BestScoreStep: 28266
+BestScore: 161
+SolutionQuality: 89.444%
+------------------------------------
+ExecutionTime: 31.023577
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 76
+------------------------------------
+StartScore: 27
+SecondStartScore: 131
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 18
+TabuListHit: 27128
+BestScoreStep: 48699
+BestScore: 159
+SolutionQuality: 88.333%
+------------------------------------
+ExecutionTime: 31.122803
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 77
+------------------------------------
+StartScore: 25
+SecondStartScore: 134
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 19
+TabuListHit: 27164
+BestScoreStep: 33687
+BestScore: 157
+SolutionQuality: 87.222%
+------------------------------------
+ExecutionTime: 28.741416
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 78
+------------------------------------
+StartScore: 27
+SecondStartScore: 121
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 19
+TabuListHit: 27119
+BestScoreStep: 45909
+BestScore: 155
+SolutionQuality: 86.111%
+------------------------------------
+ExecutionTime: 29.073559
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 79
+------------------------------------
+StartScore: 21
+SecondStartScore: 117
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 21
+TabuListHit: 27087
+BestScoreStep: 35241
+BestScore: 156
+SolutionQuality: 86.667%
+------------------------------------
+ExecutionTime: 30.862444
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 80
+------------------------------------
+StartScore: 24
+SecondStartScore: 104
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 19
+TabuListHit: 27652
+BestScoreStep: 34769
+BestScore: 156
+SolutionQuality: 86.667%
+------------------------------------
+ExecutionTime: 30.014539
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 81
+------------------------------------
+StartScore: 17
+SecondStartScore: 133
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 17
+TabuListHit: 20856
+BestScoreStep: 27601
+BestScore: 156
+SolutionQuality: 86.667%
+------------------------------------
+ExecutionTime: 31.841531
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 82
+------------------------------------
+StartScore: 26
+SecondStartScore: 131
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 19
+TabuListHit: 28178
+BestScoreStep: 81781
+BestScore: 158
+SolutionQuality: 87.778%
+------------------------------------
+ExecutionTime: 30.349844
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 83
+------------------------------------
+StartScore: 23
+SecondStartScore: 131
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 22
+TabuListHit: 23047
+BestScoreStep: 45314
+BestScore: 155
+SolutionQuality: 86.111%
+------------------------------------
+ExecutionTime: 30.355560
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 84
+------------------------------------
+StartScore: 26
+SecondStartScore: 132
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 19
+TabuListHit: 27418
+BestScoreStep: 87231
+BestScore: 156
+SolutionQuality: 86.667%
+------------------------------------
+ExecutionTime: 32.720982
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 85
+------------------------------------
+StartScore: 20
+SecondStartScore: 126
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 23
+TabuListHit: 29427
+BestScoreStep: 56768
+BestScore: 158
+SolutionQuality: 87.778%
+------------------------------------
+ExecutionTime: 35.298991
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 86
+------------------------------------
+StartScore: 26
+SecondStartScore: 133
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 18
+TabuListHit: 15500
+BestScoreStep: 17650
+BestScore: 153
+SolutionQuality: 85.000%
+------------------------------------
+ExecutionTime: 33.152293
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 87
+------------------------------------
+StartScore: 24
+SecondStartScore: 133
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 17
+TabuListHit: 25856
+BestScoreStep: 27971
+BestScore: 159
+SolutionQuality: 88.333%
+------------------------------------
+ExecutionTime: 30.819412
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 88
+------------------------------------
+StartScore: 25
+SecondStartScore: 134
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 16
+TabuListHit: 23508
+BestScoreStep: 10857
+BestScore: 154
+SolutionQuality: 85.556%
+------------------------------------
+ExecutionTime: 29.297057
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 89
+------------------------------------
+StartScore: 24
+SecondStartScore: 130
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 20
+TabuListHit: 27301
+BestScoreStep: 36344
+BestScore: 158
+SolutionQuality: 87.778%
+------------------------------------
+ExecutionTime: 28.999257
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 90
+------------------------------------
+StartScore: 22
+SecondStartScore: 130
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 21
+TabuListHit: 28138
+BestScoreStep: 97852
+BestScore: 157
+SolutionQuality: 87.222%
+------------------------------------
+ExecutionTime: 30.900749
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 91
+------------------------------------
+StartScore: 26
+SecondStartScore: 128
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 15
+TabuListHit: 25668
+BestScoreStep: 18610
+BestScore: 152
+SolutionQuality: 84.444%
+------------------------------------
+ExecutionTime: 30.567025
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 92
+------------------------------------
+StartScore: 25
+SecondStartScore: 138
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 18
+TabuListHit: 15697
+BestScoreStep: 7075
+BestScore: 150
+SolutionQuality: 83.333%
+------------------------------------
+ExecutionTime: 30.712690
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 93
+------------------------------------
+StartScore: 26
+SecondStartScore: 125
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 14
+TabuListHit: 29162
+BestScoreStep: 2913
+BestScore: 147
+SolutionQuality: 81.667%
+------------------------------------
+ExecutionTime: 32.406236
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 94
+------------------------------------
+StartScore: 26
+SecondStartScore: 117
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 19
+TabuListHit: 27762
+BestScoreStep: 58226
+BestScore: 161
+SolutionQuality: 89.444%
+------------------------------------
+ExecutionTime: 30.862228
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 95
+------------------------------------
+StartScore: 27
+SecondStartScore: 127
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 18
+TabuListHit: 27365
+BestScoreStep: 34720
+BestScore: 153
+SolutionQuality: 85.000%
+------------------------------------
+ExecutionTime: 31.188358
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 96
+------------------------------------
+StartScore: 22
+SecondStartScore: 125
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 17
+TabuListHit: 23538
+BestScoreStep: 29821
+BestScore: 157
+SolutionQuality: 87.222%
+------------------------------------
+ExecutionTime: 30.849888
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 97
+------------------------------------
+StartScore: 24
+SecondStartScore: 132
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 15
+TabuListHit: 22493
+BestScoreStep: 17893
+BestScore: 155
+SolutionQuality: 86.111%
+------------------------------------
+ExecutionTime: 32.940986
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 98
+------------------------------------
+StartScore: 29
+SecondStartScore: 102
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 24
+TabuListHit: 27901
+BestScoreStep: 33036
+BestScore: 156
+SolutionQuality: 86.667%
+------------------------------------
+ExecutionTime: 29.499369
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 99
+------------------------------------
+StartScore: 18
+SecondStartScore: 110
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 19
+TabuListHit: 27892
+BestScoreStep: 13218
+BestScore: 158
+SolutionQuality: 87.778%
+------------------------------------
+ExecutionTime: 29.102812
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 25
+RandomizeSeed: 100
+------------------------------------
+StartScore: 25
+SecondStartScore: 122
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 20
+TabuListHit: 28459
+BestScoreStep: 26072
+BestScore: 156
+SolutionQuality: 86.667%
+------------------------------------
+ExecutionTime: 29.707885
+####################################

@@ -1,0 +1,7 @@
+----------------------
+Data: 98
+MaximumScore: 180
+BestScore: 162
+AverageScore: 154.949
+AverageSolutionQuality: 86.083%
+----------------------

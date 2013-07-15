@@ -1,0 +1,9 @@
+----------------------
+TabuSizeCorner: 9
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+MaximumScore: 180
+AverageScore: 157.900
+AverageSolutionQuality: 87.722%
+----------------------

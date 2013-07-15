@@ -1,0 +1,241 @@
+----------------------
+TabuSizeCorner: 3
+TabuSizeEdge: 7
+TabuSizeInner: 20
+ExpireTime: 30
+MaximumScore: 180
+AverageScore: 158.200
+AverageSolutionQuality: 87.889%
+----------------------
+TabuSizeCorner: 3
+TabuSizeEdge: 13
+TabuSizeInner: 15
+ExpireTime: 30
+MaximumScore: 180
+AverageScore: 156.840
+AverageSolutionQuality: 87.133%
+----------------------
+TabuSizeCorner: 3
+TabuSizeEdge: 15
+TabuSizeInner: 15
+ExpireTime: 19
+MaximumScore: 180
+AverageScore: 158.180
+AverageSolutionQuality: 87.878%
+----------------------
+TabuSizeCorner: 3
+TabuSizeEdge: 15
+TabuSizeInner: 15
+ExpireTime: 23
+MaximumScore: 180
+AverageScore: 158.520
+AverageSolutionQuality: 88.067%
+----------------------
+TabuSizeCorner: 3
+TabuSizeEdge: 15
+TabuSizeInner: 20
+ExpireTime: 27
+MaximumScore: 180
+AverageScore: 157.320
+AverageSolutionQuality: 87.400%
+----------------------
+TabuSizeCorner: 3
+TabuSizeEdge: 15
+TabuSizeInner: 23
+ExpireTime: 27
+MaximumScore: 180
+AverageScore: 157.900
+AverageSolutionQuality: 87.722%
+----------------------
+TabuSizeCorner: 5
+TabuSizeEdge: 5
+TabuSizeInner: 23
+ExpireTime: 23
+MaximumScore: 180
+AverageScore: 157.720
+AverageSolutionQuality: 87.622%
+----------------------
+TabuSizeCorner: 5
+TabuSizeEdge: 7
+TabuSizeInner: 10
+ExpireTime: 30
+MaximumScore: 180
+AverageScore: 158.040
+AverageSolutionQuality: 87.800%
+----------------------
+TabuSizeCorner: 5
+TabuSizeEdge: 7
+TabuSizeInner: 20
+ExpireTime: 23
+MaximumScore: 180
+AverageScore: 157.260
+AverageSolutionQuality: 87.367%
+----------------------
+TabuSizeCorner: 5
+TabuSizeEdge: 10
+TabuSizeInner: 17
+ExpireTime: 33
+MaximumScore: 180
+AverageScore: 158.300
+AverageSolutionQuality: 87.944%
+----------------------
+TabuSizeCorner: 7
+TabuSizeEdge: 10
+TabuSizeInner: 23
+ExpireTime: 27
+MaximumScore: 180
+AverageScore: 156.000
+AverageSolutionQuality: 86.667%
+----------------------
+TabuSizeCorner: 7
+TabuSizeEdge: 13
+TabuSizeInner: 13
+ExpireTime: 23
+MaximumScore: 180
+AverageScore: 157.120
+AverageSolutionQuality: 87.289%
+----------------------
+TabuSizeCorner: 7
+TabuSizeEdge: 15
+TabuSizeInner: 17
+ExpireTime: 30
+MaximumScore: 180
+AverageScore: 156.360
+AverageSolutionQuality: 86.867%
+----------------------
+TabuSizeCorner: 7
+TabuSizeEdge: 17
+TabuSizeInner: 17
+ExpireTime: 23
+MaximumScore: 180
+AverageScore: 158.260
+AverageSolutionQuality: 87.922%
+----------------------
+TabuSizeCorner: 7
+TabuSizeEdge: 17
+TabuSizeInner: 17
+ExpireTime: 33
+MaximumScore: 180
+AverageScore: 156.560
+AverageSolutionQuality: 86.978%
+----------------------
+TabuSizeCorner: 7
+TabuSizeEdge: 17
+TabuSizeInner: 20
+ExpireTime: 33
+MaximumScore: 180
+AverageScore: 157.040
+AverageSolutionQuality: 87.244%
+----------------------
+TabuSizeCorner: 7
+TabuSizeEdge: 17
+TabuSizeInner: 23
+ExpireTime: 30
+MaximumScore: 180
+AverageScore: 157.820
+AverageSolutionQuality: 87.678%
+----------------------
+TabuSizeCorner: 9
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+MaximumScore: 180
+AverageScore: 157.580
+AverageSolutionQuality: 87.544%
+----------------------
+TabuSizeCorner: 9
+TabuSizeEdge: 10
+TabuSizeInner: 23
+ExpireTime: 30
+MaximumScore: 180
+AverageScore: 157.660
+AverageSolutionQuality: 87.589%
+----------------------
+TabuSizeCorner: 9
+TabuSizeEdge: 13
+TabuSizeInner: 13
+ExpireTime: 27
+MaximumScore: 180
+AverageScore: 157.660
+AverageSolutionQuality: 87.589%
+----------------------
+TabuSizeCorner: 9
+TabuSizeEdge: 13
+TabuSizeInner: 13
+ExpireTime: 33
+MaximumScore: 180
+AverageScore: 155.880
+AverageSolutionQuality: 86.600%
+----------------------
+TabuSizeCorner: 9
+TabuSizeEdge: 13
+TabuSizeInner: 15
+ExpireTime: 33
+MaximumScore: 180
+AverageScore: 157.080
+AverageSolutionQuality: 87.267%
+----------------------
+TabuSizeCorner: 9
+TabuSizeEdge: 13
+TabuSizeInner: 17
+ExpireTime: 33
+MaximumScore: 180
+AverageScore: 156.660
+AverageSolutionQuality: 87.033%
+----------------------
+TabuSizeCorner: 9
+TabuSizeEdge: 15
+TabuSizeInner: 15
+ExpireTime: 30
+MaximumScore: 180
+AverageScore: 157.060
+AverageSolutionQuality: 87.256%
+----------------------
+TabuSizeCorner: 9
+TabuSizeEdge: 15
+TabuSizeInner: 23
+ExpireTime: 33
+MaximumScore: 180
+AverageScore: 157.180
+AverageSolutionQuality: 87.322%
+----------------------
+TabuSizeCorner: 10
+TabuSizeEdge: 10
+TabuSizeInner: 15
+ExpireTime: 30
+MaximumScore: 180
+AverageScore: 157.800
+AverageSolutionQuality: 87.667%
+----------------------
+TabuSizeCorner: 10
+TabuSizeEdge: 13
+TabuSizeInner: 20
+ExpireTime: 27
+MaximumScore: 180
+AverageScore: 157.800
+AverageSolutionQuality: 87.667%
+----------------------
+TabuSizeCorner: 10
+TabuSizeEdge: 13
+TabuSizeInner: 23
+ExpireTime: 27
+MaximumScore: 180
+AverageScore: 157.300
+AverageSolutionQuality: 87.389%
+----------------------
+TabuSizeCorner: 10
+TabuSizeEdge: 15
+TabuSizeInner: 17
+ExpireTime: 30
+MaximumScore: 180
+AverageScore: 157.540
+AverageSolutionQuality: 87.522%
+----------------------
+TabuSizeCorner: 10
+TabuSizeEdge: 17
+TabuSizeInner: 17
+ExpireTime: 19
+MaximumScore: 180
+AverageScore: 156.820
+AverageSolutionQuality: 87.122%
+----------------------

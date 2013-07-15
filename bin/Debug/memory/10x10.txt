@@ -1,0 +1,836 @@
+--------------------------------------------------------------------------------
+Command:            ./eternity pieces_10x10.txt 10x10_output.txt 100000 25 1
+Massif arguments:   (none)
+ms_print arguments: massif.out.17951
+--------------------------------------------------------------------------------
+
+
+    KB
+70.50^              :                                                         
+     |#:: :: :: @@  @:::::@::: :@:@:::::::::::::::@@::@::::@::::::@::::::@::::
+     |#:  :: :: @   @:::::@: : :@ @:::: :::::: :::@ ::@: ::@::::::@::::::@::::
+     |#:  :: :: @ ::@:::::@: : :@ @:::: :::::: :::@ ::@: ::@::::::@::::::@::::
+     |#:  :: :: @ : @:::::@: : :@ @:::: :::::: :::@ ::@: ::@::::::@::::::@::::
+     |#:  :: :: @ : @:::::@: : :@ @:::: :::::: :::@ ::@: ::@::::::@::::::@::::
+     |#:  :: :: @ : @:::::@: : :@ @:::: :::::: :::@ ::@: ::@::::::@::::::@::::
+     |#:  :: :: @ : @:::::@: : :@ @:::: :::::: :::@ ::@: ::@::::::@::::::@::::
+     |#:  :: :: @ : @:::::@: : :@ @:::: :::::: :::@ ::@: ::@::::::@::::::@::::
+     |#: ::: :: @ : @:::::@: : :@ @:::: :::::: :::@ ::@: ::@::::::@::::::@::::
+     |#: ::: :: @ : @:::::@: : :@ @:::: :::::: :::@ ::@: ::@::::::@::::::@::::
+     |#: ::: :: @ : @:::::@: : :@ @:::: :::::: :::@ ::@: ::@::::::@::::::@::::
+     |#: ::: :: @ : @:::::@: : :@ @:::: :::::: :::@ ::@: ::@::::::@::::::@::::
+     |#: ::: :: @ : @:::::@: : :@ @:::: :::::: :::@ ::@: ::@::::::@::::::@::::
+     |#: ::: :: @ : @:::::@: : :@ @:::: :::::: :::@ ::@: ::@::::::@::::::@::::
+     |#: ::: :: @ : @:::::@: : :@ @:::: :::::: :::@ ::@: ::@::::::@::::::@::::
+     |#: ::: :: @ : @:::::@: : :@ @:::: :::::: :::@ ::@: ::@::::::@::::::@::::
+     |#: :::::::@ : @:::::@: :::@ @:::: :::::: :::@ ::@: ::@::::::@::::::@::::
+     |#: :::::::@ : @:::::@: :::@ @:::: :::::: :::@ ::@: ::@::::::@::::::@::::
+     |#: :::::::@ : @:::::@: :::@ @:::: :::::: :::@ ::@: ::@::::::@::::::@::::
+   0 +----------------------------------------------------------------------->Gi
+     0                                                                   63.47
+
+Number of snapshots: 80
+ Detailed snapshots: [1 (peak), 11, 15, 21, 26, 29, 43, 47, 52, 62, 72]
+
+--------------------------------------------------------------------------------
+  n        time(i)         total(B)   useful-heap(B) extra-heap(B)    stacks(B)
+--------------------------------------------------------------------------------
+  0              0                0                0             0            0
+  1     20,637,585           71,992           47,460        24,532            0
+65.92% (47,460B) (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+->40.14% (28,896B) 0x8049738: move_new (neigh_swap_rotate.c:9)
+| ->39.32% (28,308B) 0x804A16A: neighbor_new (neigh_swap_rotate.c:169)
+| | ->39.32% (28,308B) 0x804A3AC: neighborhood_new (neigh_swap_rotate.c:221)
+| |   ->39.32% (28,308B) 0x804A46C: neighborhood_generation_inner (neigh_swap_rotate.c:242)
+| |   | ->39.32% (28,308B) 0x80504FC: tabuSearchDefault (tabu.c:1058)
+| |   |   ->39.32% (28,308B) 0x804962F: main (main.c:220)
+| |   |     
+| |   ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+| |   
+| ->00.82% (588B) in 1+ places, all below ms_print's threshold (01.00%)
+| 
+->11.23% (8,088B) 0x804A144: neighbor_new (neigh_swap_rotate.c:164)
+| ->11.23% (8,088B) 0x804A3AC: neighborhood_new (neigh_swap_rotate.c:221)
+|   ->11.23% (8,088B) 0x804A46C: neighborhood_generation_inner (neigh_swap_rotate.c:242)
+|   | ->11.23% (8,088B) 0x80504FC: tabuSearchDefault (tabu.c:1058)
+|   |   ->11.23% (8,088B) 0x804962F: main (main.c:220)
+|   |     
+|   ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+|   
+->05.62% (4,044B) 0x804A368: neighborhood_new (neigh_swap_rotate.c:215)
+| ->05.62% (4,044B) 0x804A46C: neighborhood_generation_inner (neigh_swap_rotate.c:242)
+| | ->05.62% (4,044B) 0x80504FC: tabuSearchDefault (tabu.c:1058)
+| |   ->05.62% (4,044B) 0x804962F: main (main.c:220)
+| |     
+| ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+| 
+->03.36% (2,416B) 0x804BA86: piece_new (solution.c:129)
+| ->01.93% (1,392B) 0x804BCD2: solution_cpy (solution.c:194)
+| | ->01.11% (800B) 0x805061C: tabuSearchDefault (tabu.c:1098)
+| | | ->01.11% (800B) 0x804962F: main (main.c:220)
+| | |   
+| | ->00.82% (592B) in 1+ places, all below ms_print's threshold (01.00%)
+| | 
+| ->01.42% (1,024B) in 17 places, all below massif's threshold (01.00%)
+|   
+->02.78% (2,000B) 0x804B939: square_new (solution.c:53)
+| ->02.78% (2,000B) 0x8048BA3: read_input (input.c:36)
+|   ->02.78% (2,000B) 0x80491C6: main (main.c:164)
+|     
+->01.67% (1,200B) 0x804BB5F: solution_new (solution.c:159)
+| ->01.11% (800B) 0x804BC56: solution_cpy (solution.c:190)
+| | ->01.11% (800B) in 3 places, all below massif's threshold (01.00%)
+| |   
+| ->00.56% (400B) in 1+ places, all below ms_print's threshold (01.00%)
+| 
+->01.13% (816B) in 9 places, all below massif's threshold (01.00%)
+  
+--------------------------------------------------------------------------------
+  n        time(i)         total(B)   useful-heap(B) extra-heap(B)    stacks(B)
+--------------------------------------------------------------------------------
+  2    795,153,808           72,096           47,508        24,588            0
+  3  1,859,379,994           72,136           47,508        24,628            0
+  4  3,125,496,626           43,144           28,888        14,256            0
+  5  4,038,331,225           72,168           47,508        24,660            0
+  6  5,389,715,028           72,128           47,508        24,620            0
+  7  6,183,824,691           13,304            8,308         4,996            0
+  8  7,441,167,196           72,128           47,508        24,620            0
+  9  8,384,441,240           72,136           47,508        24,628            0
+ 10  9,131,312,795           13,304            8,308         4,996            0
+ 11 10,210,130,463           72,136           47,508        24,628            0
+65.86% (47,508B) (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+->40.14% (28,952B) 0x8049738: move_new (neigh_swap_rotate.c:9)
+| ->39.24% (28,308B) 0x804A16A: neighbor_new (neigh_swap_rotate.c:169)
+| | ->39.24% (28,308B) 0x804A3AC: neighborhood_new (neigh_swap_rotate.c:221)
+| |   ->39.24% (28,308B) 0x804A46C: neighborhood_generation_inner (neigh_swap_rotate.c:242)
+| |   | ->39.24% (28,308B) 0x80504FC: tabuSearchDefault (tabu.c:1058)
+| |   |   ->39.24% (28,308B) 0x8049678: main (main.c:223)
+| |   |   | 
+| |   |   ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+| |   |   
+| |   ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+| |   
+| ->00.89% (644B) in 1+ places, all below ms_print's threshold (01.00%)
+| 
+->11.21% (8,088B) 0x804A144: neighbor_new (neigh_swap_rotate.c:164)
+| ->11.21% (8,088B) 0x804A3AC: neighborhood_new (neigh_swap_rotate.c:221)
+|   ->11.21% (8,088B) 0x804A46C: neighborhood_generation_inner (neigh_swap_rotate.c:242)
+|   | ->11.21% (8,088B) 0x80504FC: tabuSearchDefault (tabu.c:1058)
+|   |   ->11.21% (8,088B) 0x8049678: main (main.c:223)
+|   |   | 
+|   |   ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+|   |   
+|   ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+|   
+->05.61% (4,044B) 0x804A368: neighborhood_new (neigh_swap_rotate.c:215)
+| ->05.61% (4,044B) 0x804A46C: neighborhood_generation_inner (neigh_swap_rotate.c:242)
+| | ->05.61% (4,044B) 0x80504FC: tabuSearchDefault (tabu.c:1058)
+| |   ->05.61% (4,044B) 0x8049678: main (main.c:223)
+| |   | 
+| |   ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+| |   
+| ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+| 
+->03.34% (2,408B) 0x804BA86: piece_new (solution.c:129)
+| ->02.21% (1,592B) in 17 places, all below massif's threshold (01.00%)
+| | 
+| ->01.13% (816B) 0x804BCD2: solution_cpy (solution.c:194)
+|   ->01.13% (816B) 0x805061C: tabuSearchDefault (tabu.c:1098)
+|   | ->01.11% (800B) 0x8049678: main (main.c:223)
+|   | | 
+|   | ->00.02% (16B) in 1+ places, all below ms_print's threshold (01.00%)
+|   | 
+|   ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+|   
+->02.77% (2,000B) 0x804B939: square_new (solution.c:53)
+| ->02.77% (2,000B) 0x8048BA3: read_input (input.c:36)
+|   ->02.77% (2,000B) 0x80491C6: main (main.c:164)
+|     
+->01.66% (1,200B) 0x804BB5F: solution_new (solution.c:159)
+| ->01.11% (800B) 0x804BC56: solution_cpy (solution.c:190)
+| | ->01.11% (800B) 0x805061C: tabuSearchDefault (tabu.c:1098)
+| | | ->01.11% (800B) in 2 places, all below massif's threshold (01.00%)
+| | |   
+| | ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+| | 
+| ->00.55% (400B) in 1+ places, all below ms_print's threshold (01.00%)
+| 
+->01.13% (816B) in 9 places, all below massif's threshold (01.00%)
+  
+--------------------------------------------------------------------------------
+  n        time(i)         total(B)   useful-heap(B) extra-heap(B)    stacks(B)
+--------------------------------------------------------------------------------
+ 12 11,371,931,806           27,072           18,564         8,508            0
+ 13 12,201,790,587           61,664           40,776        20,888            0
+ 14 13,377,222,258           72,192           47,508        24,684            0
+ 15 14,171,340,357           72,152           47,508        24,644            0
+65.84% (47,508B) (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+->40.13% (28,952B) 0x8049738: move_new (neigh_swap_rotate.c:9)
+| ->39.23% (28,308B) 0x804A16A: neighbor_new (neigh_swap_rotate.c:169)
+| | ->39.23% (28,308B) 0x804A3AC: neighborhood_new (neigh_swap_rotate.c:221)
+| |   ->39.23% (28,308B) 0x804A46C: neighborhood_generation_inner (neigh_swap_rotate.c:242)
+| |   | ->39.23% (28,308B) 0x80504FC: tabuSearchDefault (tabu.c:1058)
+| |   |   ->39.23% (28,308B) 0x8049678: main (main.c:223)
+| |   |   | 
+| |   |   ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+| |   |   
+| |   ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+| |   
+| ->00.89% (644B) in 1+ places, all below ms_print's threshold (01.00%)
+| 
+->11.21% (8,088B) 0x804A144: neighbor_new (neigh_swap_rotate.c:164)
+| ->11.21% (8,088B) 0x804A3AC: neighborhood_new (neigh_swap_rotate.c:221)
+|   ->11.21% (8,088B) 0x804A46C: neighborhood_generation_inner (neigh_swap_rotate.c:242)
+|   | ->11.21% (8,088B) 0x80504FC: tabuSearchDefault (tabu.c:1058)
+|   |   ->11.21% (8,088B) 0x8049678: main (main.c:223)
+|   |   | 
+|   |   ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+|   |   
+|   ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+|   
+->05.60% (4,044B) 0x804A368: neighborhood_new (neigh_swap_rotate.c:215)
+| ->05.60% (4,044B) 0x804A46C: neighborhood_generation_inner (neigh_swap_rotate.c:242)
+| | ->05.60% (4,044B) 0x80504FC: tabuSearchDefault (tabu.c:1058)
+| |   ->05.60% (4,044B) 0x8049678: main (main.c:223)
+| |   | 
+| |   ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+| |   
+| ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+| 
+->03.34% (2,408B) 0x804BA86: piece_new (solution.c:129)
+| ->02.21% (1,592B) in 17 places, all below massif's threshold (01.00%)
+| | 
+| ->01.13% (816B) 0x804BCD2: solution_cpy (solution.c:194)
+|   ->01.13% (816B) 0x805061C: tabuSearchDefault (tabu.c:1098)
+|   | ->01.11% (800B) 0x8049678: main (main.c:223)
+|   | | 
+|   | ->00.02% (16B) in 1+ places, all below ms_print's threshold (01.00%)
+|   | 
+|   ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+|   
+->02.77% (2,000B) 0x804B939: square_new (solution.c:53)
+| ->02.77% (2,000B) 0x8048BA3: read_input (input.c:36)
+|   ->02.77% (2,000B) 0x80491C6: main (main.c:164)
+|     
+->01.66% (1,200B) 0x804BB5F: solution_new (solution.c:159)
+| ->01.11% (800B) 0x804BC56: solution_cpy (solution.c:190)
+| | ->01.11% (800B) 0x805061C: tabuSearchDefault (tabu.c:1098)
+| | | ->01.11% (800B) in 2 places, all below massif's threshold (01.00%)
+| | |   
+| | ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+| | 
+| ->00.55% (400B) in 1+ places, all below ms_print's threshold (01.00%)
+| 
+->01.13% (816B) in 9 places, all below massif's threshold (01.00%)
+  
+--------------------------------------------------------------------------------
+  n        time(i)         total(B)   useful-heap(B) extra-heap(B)    stacks(B)
+--------------------------------------------------------------------------------
+ 16 14,833,107,890           72,144           47,508        24,636            0
+ 17 15,891,935,834           72,136           47,508        24,628            0
+ 18 16,950,764,878           72,136           47,508        24,628            0
+ 19 17,744,883,619           72,136           47,508        24,628            0
+ 20 18,671,358,737           72,136           47,508        24,628            0
+ 21 19,815,291,931           72,136           47,508        24,628            0
+65.86% (47,508B) (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+->40.14% (28,952B) 0x8049738: move_new (neigh_swap_rotate.c:9)
+| ->39.24% (28,308B) 0x804A16A: neighbor_new (neigh_swap_rotate.c:169)
+| | ->39.24% (28,308B) 0x804A3AC: neighborhood_new (neigh_swap_rotate.c:221)
+| |   ->39.24% (28,308B) 0x804A46C: neighborhood_generation_inner (neigh_swap_rotate.c:242)
+| |   | ->39.24% (28,308B) 0x80504FC: tabuSearchDefault (tabu.c:1058)
+| |   |   ->39.24% (28,308B) 0x8049678: main (main.c:223)
+| |   |   | 
+| |   |   ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+| |   |   
+| |   ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+| |   
+| ->00.89% (644B) in 1+ places, all below ms_print's threshold (01.00%)
+| 
+->11.21% (8,088B) 0x804A144: neighbor_new (neigh_swap_rotate.c:164)
+| ->11.21% (8,088B) 0x804A3AC: neighborhood_new (neigh_swap_rotate.c:221)
+|   ->11.21% (8,088B) 0x804A46C: neighborhood_generation_inner (neigh_swap_rotate.c:242)
+|   | ->11.21% (8,088B) 0x80504FC: tabuSearchDefault (tabu.c:1058)
+|   |   ->11.21% (8,088B) 0x8049678: main (main.c:223)
+|   |   | 
+|   |   ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+|   |   
+|   ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+|   
+->05.61% (4,044B) 0x804A368: neighborhood_new (neigh_swap_rotate.c:215)
+| ->05.61% (4,044B) 0x804A46C: neighborhood_generation_inner (neigh_swap_rotate.c:242)
+| | ->05.61% (4,044B) 0x80504FC: tabuSearchDefault (tabu.c:1058)
+| |   ->05.61% (4,044B) 0x8049678: main (main.c:223)
+| |   | 
+| |   ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+| |   
+| ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+| 
+->03.34% (2,408B) 0x804BA86: piece_new (solution.c:129)
+| ->01.20% (864B) in 16 places, all below massif's threshold (01.00%)
+| | 
+| ->01.12% (808B) 0x804BCD2: solution_cpy (solution.c:194)
+| | ->01.12% (808B) 0x805061C: tabuSearchDefault (tabu.c:1098)
+| | | ->01.11% (800B) 0x8049678: main (main.c:223)
+| | | | 
+| | | ->00.01% (8B) in 1+ places, all below ms_print's threshold (01.00%)
+| | | 
+| | ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+| | 
+| ->01.02% (736B) 0x804A28A: neighbor_into_solution (neigh_swap_rotate.c:192)
+|   ->01.02% (736B) 0x8050596: tabuSearchDefault (tabu.c:1079)
+|     ->01.02% (736B) 0x8049678: main (main.c:223)
+|     | 
+|     ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+|     
+->02.77% (2,000B) 0x804B939: square_new (solution.c:53)
+| ->02.77% (2,000B) 0x8048BA3: read_input (input.c:36)
+|   ->02.77% (2,000B) 0x80491C6: main (main.c:164)
+|     
+->01.66% (1,200B) 0x804BB5F: solution_new (solution.c:159)
+| ->01.11% (800B) 0x804BC56: solution_cpy (solution.c:190)
+| | ->01.11% (800B) 0x805061C: tabuSearchDefault (tabu.c:1098)
+| | | ->01.11% (800B) in 2 places, all below massif's threshold (01.00%)
+| | |   
+| | ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+| | 
+| ->00.55% (400B) in 1+ places, all below ms_print's threshold (01.00%)
+| 
+->01.13% (816B) in 9 places, all below massif's threshold (01.00%)
+  
+--------------------------------------------------------------------------------
+  n        time(i)         total(B)   useful-heap(B) extra-heap(B)    stacks(B)
+--------------------------------------------------------------------------------
+ 22 20,811,120,461           72,120           47,500        24,620            0
+ 23 21,806,951,584           72,136           47,508        24,628            0
+ 24 22,802,781,937           13,304            8,308         4,996            0
+ 25 23,798,610,491           72,136           47,508        24,628            0
+ 26 24,794,441,619           72,136           47,508        24,628            0
+65.86% (47,508B) (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+->40.14% (28,952B) 0x8049738: move_new (neigh_swap_rotate.c:9)
+| ->39.24% (28,308B) 0x804A16A: neighbor_new (neigh_swap_rotate.c:169)
+| | ->39.24% (28,308B) 0x804A3AC: neighborhood_new (neigh_swap_rotate.c:221)
+| |   ->39.24% (28,308B) 0x804A46C: neighborhood_generation_inner (neigh_swap_rotate.c:242)
+| |   | ->39.24% (28,308B) 0x80504FC: tabuSearchDefault (tabu.c:1058)
+| |   |   ->39.24% (28,308B) 0x8049678: main (main.c:223)
+| |   |   | 
+| |   |   ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+| |   |   
+| |   ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+| |   
+| ->00.89% (644B) in 1+ places, all below ms_print's threshold (01.00%)
+| 
+->11.21% (8,088B) 0x804A144: neighbor_new (neigh_swap_rotate.c:164)
+| ->11.21% (8,088B) 0x804A3AC: neighborhood_new (neigh_swap_rotate.c:221)
+|   ->11.21% (8,088B) 0x804A46C: neighborhood_generation_inner (neigh_swap_rotate.c:242)
+|   | ->11.21% (8,088B) 0x80504FC: tabuSearchDefault (tabu.c:1058)
+|   |   ->11.21% (8,088B) 0x8049678: main (main.c:223)
+|   |   | 
+|   |   ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+|   |   
+|   ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+|   
+->05.61% (4,044B) 0x804A368: neighborhood_new (neigh_swap_rotate.c:215)
+| ->05.61% (4,044B) 0x804A46C: neighborhood_generation_inner (neigh_swap_rotate.c:242)
+| | ->05.61% (4,044B) 0x80504FC: tabuSearchDefault (tabu.c:1058)
+| |   ->05.61% (4,044B) 0x8049678: main (main.c:223)
+| |   | 
+| |   ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+| |   
+| ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+| 
+->03.34% (2,408B) 0x804BA86: piece_new (solution.c:129)
+| ->01.22% (880B) in 16 places, all below massif's threshold (01.00%)
+| | 
+| ->01.11% (800B) 0x804BCD2: solution_cpy (solution.c:194)
+| | ->01.11% (800B) 0x805061C: tabuSearchDefault (tabu.c:1098)
+| | | ->01.11% (800B) 0x8049678: main (main.c:223)
+| | | | 
+| | | ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+| | | 
+| | ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+| | 
+| ->01.01% (728B) 0x804A28A: neighbor_into_solution (neigh_swap_rotate.c:192)
+|   ->01.01% (728B) 0x8050596: tabuSearchDefault (tabu.c:1079)
+|     ->01.01% (728B) 0x8049678: main (main.c:223)
+|     | 
+|     ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+|     
+->02.77% (2,000B) 0x804B939: square_new (solution.c:53)
+| ->02.77% (2,000B) 0x8048BA3: read_input (input.c:36)
+|   ->02.77% (2,000B) 0x80491C6: main (main.c:164)
+|     
+->01.66% (1,200B) 0x804BB5F: solution_new (solution.c:159)
+| ->01.11% (800B) 0x804BC56: solution_cpy (solution.c:190)
+| | ->01.11% (800B) 0x805061C: tabuSearchDefault (tabu.c:1098)
+| | | ->01.11% (800B) in 2 places, all below massif's threshold (01.00%)
+| | |   
+| | ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+| | 
+| ->00.55% (400B) in 1+ places, all below ms_print's threshold (01.00%)
+| 
+->01.13% (816B) in 9 places, all below massif's threshold (01.00%)
+  
+--------------------------------------------------------------------------------
+  n        time(i)         total(B)   useful-heap(B) extra-heap(B)    stacks(B)
+--------------------------------------------------------------------------------
+ 27 25,541,314,646           72,136           47,508        24,628            0
+ 28 26,537,145,521           72,136           47,508        24,628            0
+ 29 27,284,018,270           72,136           47,508        24,628            0
+65.86% (47,508B) (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+->40.14% (28,952B) 0x8049738: move_new (neigh_swap_rotate.c:9)
+| ->39.24% (28,308B) 0x804A16A: neighbor_new (neigh_swap_rotate.c:169)
+| | ->39.24% (28,308B) 0x804A3AC: neighborhood_new (neigh_swap_rotate.c:221)
+| |   ->39.24% (28,308B) 0x804A46C: neighborhood_generation_inner (neigh_swap_rotate.c:242)
+| |   | ->39.24% (28,308B) 0x80504FC: tabuSearchDefault (tabu.c:1058)
+| |   |   ->39.24% (28,308B) 0x8049678: main (main.c:223)
+| |   |   | 
+| |   |   ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+| |   |   
+| |   ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+| |   
+| ->00.89% (644B) in 1+ places, all below ms_print's threshold (01.00%)
+| 
+->11.21% (8,088B) 0x804A144: neighbor_new (neigh_swap_rotate.c:164)
+| ->11.21% (8,088B) 0x804A3AC: neighborhood_new (neigh_swap_rotate.c:221)
+|   ->11.21% (8,088B) 0x804A46C: neighborhood_generation_inner (neigh_swap_rotate.c:242)
+|   | ->11.21% (8,088B) 0x80504FC: tabuSearchDefault (tabu.c:1058)
+|   |   ->11.21% (8,088B) 0x8049678: main (main.c:223)
+|   |   | 
+|   |   ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+|   |   
+|   ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+|   
+->05.61% (4,044B) 0x804A368: neighborhood_new (neigh_swap_rotate.c:215)
+| ->05.61% (4,044B) 0x804A46C: neighborhood_generation_inner (neigh_swap_rotate.c:242)
+| | ->05.61% (4,044B) 0x80504FC: tabuSearchDefault (tabu.c:1058)
+| |   ->05.61% (4,044B) 0x8049678: main (main.c:223)
+| |   | 
+| |   ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+| |   
+| ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+| 
+->03.34% (2,408B) 0x804BA86: piece_new (solution.c:129)
+| ->01.21% (872B) in 16 places, all below massif's threshold (01.00%)
+| | 
+| ->01.11% (800B) 0x804BCD2: solution_cpy (solution.c:194)
+| | ->01.11% (800B) 0x805061C: tabuSearchDefault (tabu.c:1098)
+| | | ->01.11% (800B) 0x8049678: main (main.c:223)
+| | | | 
+| | | ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+| | | 
+| | ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+| | 
+| ->01.02% (736B) 0x804A28A: neighbor_into_solution (neigh_swap_rotate.c:192)
+|   ->01.02% (736B) 0x8050596: tabuSearchDefault (tabu.c:1079)
+|     ->01.02% (736B) 0x8049678: main (main.c:223)
+|     | 
+|     ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+|     
+->02.77% (2,000B) 0x804B939: square_new (solution.c:53)
+| ->02.77% (2,000B) 0x8048BA3: read_input (input.c:36)
+|   ->02.77% (2,000B) 0x80491C6: main (main.c:164)
+|     
+->01.66% (1,200B) 0x804BB5F: solution_new (solution.c:159)
+| ->01.11% (800B) 0x804BC56: solution_cpy (solution.c:190)
+| | ->01.11% (800B) 0x805061C: tabuSearchDefault (tabu.c:1098)
+| | | ->01.11% (800B) in 2 places, all below massif's threshold (01.00%)
+| | |   
+| | ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+| | 
+| ->00.55% (400B) in 1+ places, all below ms_print's threshold (01.00%)
+| 
+->01.13% (816B) in 9 places, all below massif's threshold (01.00%)
+  
+--------------------------------------------------------------------------------
+  n        time(i)         total(B)   useful-heap(B) extra-heap(B)    stacks(B)
+--------------------------------------------------------------------------------
+ 30 28,279,847,453           72,136           47,508        24,628            0
+ 31 29,026,719,869           72,136           47,508        24,628            0
+ 32 30,022,549,226           72,136           47,508        24,628            0
+ 33 30,769,421,428           72,136           47,508        24,628            0
+ 34 32,187,542,516           72,136           47,508        24,628            0
+ 35 33,194,417,601           72,128           47,508        24,620            0
+ 36 34,536,917,166           72,128           47,508        24,620            0
+ 37 35,208,168,328           72,128           47,508        24,620            0
+ 38 36,215,043,367           72,128           47,508        24,620            0
+ 39 37,557,544,704           72,128           47,508        24,620            0
+ 40 38,900,045,463           72,128           47,508        24,620            0
+ 41 39,906,920,725           72,128           47,508        24,620            0
+ 42 41,249,420,725           72,128           47,508        24,620            0
+ 43 42,591,921,721           72,136           47,508        24,628            0
+65.86% (47,508B) (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+->40.14% (28,952B) 0x8049738: move_new (neigh_swap_rotate.c:9)
+| ->39.24% (28,308B) 0x804A16A: neighbor_new (neigh_swap_rotate.c:169)
+| | ->39.24% (28,308B) 0x804A3AC: neighborhood_new (neigh_swap_rotate.c:221)
+| |   ->39.24% (28,308B) 0x804A46C: neighborhood_generation_inner (neigh_swap_rotate.c:242)
+| |   | ->39.24% (28,308B) 0x80504FC: tabuSearchDefault (tabu.c:1058)
+| |   |   ->39.24% (28,308B) 0x8049678: main (main.c:223)
+| |   |   | 
+| |   |   ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+| |   |   
+| |   ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+| |   
+| ->00.89% (644B) in 1+ places, all below ms_print's threshold (01.00%)
+| 
+->11.21% (8,088B) 0x804A144: neighbor_new (neigh_swap_rotate.c:164)
+| ->11.21% (8,088B) 0x804A3AC: neighborhood_new (neigh_swap_rotate.c:221)
+|   ->11.21% (8,088B) 0x804A46C: neighborhood_generation_inner (neigh_swap_rotate.c:242)
+|   | ->11.21% (8,088B) 0x80504FC: tabuSearchDefault (tabu.c:1058)
+|   |   ->11.21% (8,088B) 0x8049678: main (main.c:223)
+|   |   | 
+|   |   ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+|   |   
+|   ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+|   
+->05.61% (4,044B) 0x804A368: neighborhood_new (neigh_swap_rotate.c:215)
+| ->05.61% (4,044B) 0x804A46C: neighborhood_generation_inner (neigh_swap_rotate.c:242)
+| | ->05.61% (4,044B) 0x80504FC: tabuSearchDefault (tabu.c:1058)
+| |   ->05.61% (4,044B) 0x8049678: main (main.c:223)
+| |   | 
+| |   ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+| |   
+| ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+| 
+->03.34% (2,408B) 0x804BA86: piece_new (solution.c:129)
+| ->01.21% (872B) in 16 places, all below massif's threshold (01.00%)
+| | 
+| ->01.11% (800B) 0x804BCD2: solution_cpy (solution.c:194)
+| | ->01.11% (800B) 0x805061C: tabuSearchDefault (tabu.c:1098)
+| | | ->01.11% (800B) 0x8049678: main (main.c:223)
+| | | | 
+| | | ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+| | | 
+| | ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+| | 
+| ->01.02% (736B) 0x804A28A: neighbor_into_solution (neigh_swap_rotate.c:192)
+|   ->01.02% (736B) 0x8050596: tabuSearchDefault (tabu.c:1079)
+|     ->01.02% (736B) 0x8049678: main (main.c:223)
+|     | 
+|     ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+|     
+->02.77% (2,000B) 0x804B939: square_new (solution.c:53)
+| ->02.77% (2,000B) 0x8048BA3: read_input (input.c:36)
+|   ->02.77% (2,000B) 0x80491C6: main (main.c:164)
+|     
+->01.66% (1,200B) 0x804BB5F: solution_new (solution.c:159)
+| ->01.11% (800B) 0x804BC56: solution_cpy (solution.c:190)
+| | ->01.11% (800B) 0x805061C: tabuSearchDefault (tabu.c:1098)
+| | | ->01.11% (800B) in 2 places, all below massif's threshold (01.00%)
+| | |   
+| | ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+| | 
+| ->00.55% (400B) in 1+ places, all below ms_print's threshold (01.00%)
+| 
+->01.13% (816B) in 9 places, all below massif's threshold (01.00%)
+  
+--------------------------------------------------------------------------------
+  n        time(i)         total(B)   useful-heap(B) extra-heap(B)    stacks(B)
+--------------------------------------------------------------------------------
+ 44 43,598,795,330           72,144           47,508        24,636            0
+ 45 44,270,044,423           72,144           47,508        24,636            0
+ 46 45,276,919,117           72,144           47,508        24,636            0
+ 47 45,948,168,934           72,144           47,508        24,636            0
+65.85% (47,508B) (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+->40.13% (28,952B) 0x8049738: move_new (neigh_swap_rotate.c:9)
+| ->39.24% (28,308B) 0x804A16A: neighbor_new (neigh_swap_rotate.c:169)
+| | ->39.24% (28,308B) 0x804A3AC: neighborhood_new (neigh_swap_rotate.c:221)
+| |   ->39.24% (28,308B) 0x804A46C: neighborhood_generation_inner (neigh_swap_rotate.c:242)
+| |   | ->39.24% (28,308B) 0x80504FC: tabuSearchDefault (tabu.c:1058)
+| |   |   ->39.24% (28,308B) 0x8049678: main (main.c:223)
+| |   |   | 
+| |   |   ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+| |   |   
+| |   ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+| |   
+| ->00.89% (644B) in 1+ places, all below ms_print's threshold (01.00%)
+| 
+->11.21% (8,088B) 0x804A144: neighbor_new (neigh_swap_rotate.c:164)
+| ->11.21% (8,088B) 0x804A3AC: neighborhood_new (neigh_swap_rotate.c:221)
+|   ->11.21% (8,088B) 0x804A46C: neighborhood_generation_inner (neigh_swap_rotate.c:242)
+|   | ->11.21% (8,088B) 0x80504FC: tabuSearchDefault (tabu.c:1058)
+|   |   ->11.21% (8,088B) 0x8049678: main (main.c:223)
+|   |   | 
+|   |   ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+|   |   
+|   ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+|   
+->05.61% (4,044B) 0x804A368: neighborhood_new (neigh_swap_rotate.c:215)
+| ->05.61% (4,044B) 0x804A46C: neighborhood_generation_inner (neigh_swap_rotate.c:242)
+| | ->05.61% (4,044B) 0x80504FC: tabuSearchDefault (tabu.c:1058)
+| |   ->05.61% (4,044B) 0x8049678: main (main.c:223)
+| |   | 
+| |   ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+| |   
+| ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+| 
+->03.34% (2,408B) 0x804BA86: piece_new (solution.c:129)
+| ->01.20% (864B) in 16 places, all below massif's threshold (01.00%)
+| | 
+| ->01.11% (800B) 0x804BCD2: solution_cpy (solution.c:194)
+| | ->01.11% (800B) 0x805061C: tabuSearchDefault (tabu.c:1098)
+| | | ->01.11% (800B) 0x8049678: main (main.c:223)
+| | | | 
+| | | ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+| | | 
+| | ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+| | 
+| ->01.03% (744B) 0x804A28A: neighbor_into_solution (neigh_swap_rotate.c:192)
+|   ->01.03% (744B) 0x8050596: tabuSearchDefault (tabu.c:1079)
+|     ->01.03% (744B) 0x8049678: main (main.c:223)
+|     | 
+|     ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+|     
+->02.77% (2,000B) 0x804B939: square_new (solution.c:53)
+| ->02.77% (2,000B) 0x8048BA3: read_input (input.c:36)
+|   ->02.77% (2,000B) 0x80491C6: main (main.c:164)
+|     
+->01.66% (1,200B) 0x804BB5F: solution_new (solution.c:159)
+| ->01.11% (800B) 0x804BC56: solution_cpy (solution.c:190)
+| | ->01.11% (800B) 0x805061C: tabuSearchDefault (tabu.c:1098)
+| | | ->01.11% (800B) in 2 places, all below massif's threshold (01.00%)
+| | |   
+| | ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+| | 
+| ->00.55% (400B) in 1+ places, all below ms_print's threshold (01.00%)
+| 
+->01.13% (816B) in 9 places, all below massif's threshold (01.00%)
+  
+--------------------------------------------------------------------------------
+  n        time(i)         total(B)   useful-heap(B) extra-heap(B)    stacks(B)
+--------------------------------------------------------------------------------
+ 48 46,955,043,221           72,144           47,508        24,636            0
+ 49 48,297,541,586           19,432           13,632         5,800            0
+ 50 48,959,332,417           72,168           47,528        24,640            0
+ 51 49,621,101,215           72,144           47,508        24,636            0
+ 52 50,282,870,025           72,144           47,508        24,636            0
+65.85% (47,508B) (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+->40.13% (28,952B) 0x8049738: move_new (neigh_swap_rotate.c:9)
+| ->39.24% (28,308B) 0x804A16A: neighbor_new (neigh_swap_rotate.c:169)
+| | ->39.24% (28,308B) 0x804A3AC: neighborhood_new (neigh_swap_rotate.c:221)
+| |   ->39.24% (28,308B) 0x804A46C: neighborhood_generation_inner (neigh_swap_rotate.c:242)
+| |   | ->39.24% (28,308B) 0x80504FC: tabuSearchDefault (tabu.c:1058)
+| |   |   ->39.24% (28,308B) 0x8049678: main (main.c:223)
+| |   |   | 
+| |   |   ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+| |   |   
+| |   ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+| |   
+| ->00.89% (644B) in 1+ places, all below ms_print's threshold (01.00%)
+| 
+->11.21% (8,088B) 0x804A144: neighbor_new (neigh_swap_rotate.c:164)
+| ->11.21% (8,088B) 0x804A3AC: neighborhood_new (neigh_swap_rotate.c:221)
+|   ->11.21% (8,088B) 0x804A46C: neighborhood_generation_inner (neigh_swap_rotate.c:242)
+|   | ->11.21% (8,088B) 0x80504FC: tabuSearchDefault (tabu.c:1058)
+|   |   ->11.21% (8,088B) 0x8049678: main (main.c:223)
+|   |   | 
+|   |   ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+|   |   
+|   ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+|   
+->05.61% (4,044B) 0x804A368: neighborhood_new (neigh_swap_rotate.c:215)
+| ->05.61% (4,044B) 0x804A46C: neighborhood_generation_inner (neigh_swap_rotate.c:242)
+| | ->05.61% (4,044B) 0x80504FC: tabuSearchDefault (tabu.c:1058)
+| |   ->05.61% (4,044B) 0x8049678: main (main.c:223)
+| |   | 
+| |   ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+| |   
+| ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+| 
+->03.34% (2,408B) 0x804BA86: piece_new (solution.c:129)
+| ->01.21% (872B) in 16 places, all below massif's threshold (01.00%)
+| | 
+| ->01.11% (800B) 0x804BCD2: solution_cpy (solution.c:194)
+| | ->01.11% (800B) 0x805061C: tabuSearchDefault (tabu.c:1098)
+| | | ->01.11% (800B) 0x8049678: main (main.c:223)
+| | | | 
+| | | ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+| | | 
+| | ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+| | 
+| ->01.02% (736B) 0x804A28A: neighbor_into_solution (neigh_swap_rotate.c:192)
+|   ->01.02% (736B) 0x8050596: tabuSearchDefault (tabu.c:1079)
+|     ->01.02% (736B) 0x8049678: main (main.c:223)
+|     | 
+|     ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+|     
+->02.77% (2,000B) 0x804B939: square_new (solution.c:53)
+| ->02.77% (2,000B) 0x8048BA3: read_input (input.c:36)
+|   ->02.77% (2,000B) 0x80491C6: main (main.c:164)
+|     
+->01.66% (1,200B) 0x804BB5F: solution_new (solution.c:159)
+| ->01.11% (800B) 0x804BC56: solution_cpy (solution.c:190)
+| | ->01.11% (800B) 0x805061C: tabuSearchDefault (tabu.c:1098)
+| | | ->01.11% (800B) in 2 places, all below massif's threshold (01.00%)
+| | |   
+| | ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+| | 
+| ->00.55% (400B) in 1+ places, all below ms_print's threshold (01.00%)
+| 
+->01.13% (816B) in 9 places, all below massif's threshold (01.00%)
+  
+--------------------------------------------------------------------------------
+  n        time(i)         total(B)   useful-heap(B) extra-heap(B)    stacks(B)
+--------------------------------------------------------------------------------
+ 53 50,944,669,153           72,168           47,528        24,640            0
+ 54 51,606,437,082           72,144           47,508        24,636            0
+ 55 52,268,204,743           72,144           47,508        24,636            0
+ 56 52,929,972,293           72,144           47,508        24,636            0
+ 57 53,591,739,872           72,144           47,508        24,636            0
+ 58 54,253,507,840           72,144           47,508        24,636            0
+ 59 54,915,276,391           72,104           47,480        24,624            0
+ 60 55,577,044,614           72,160           47,508        24,652            0
+ 61 56,238,813,585           72,160           47,508        24,652            0
+ 62 56,900,582,275           72,160           47,508        24,652            0
+65.84% (47,508B) (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+->40.12% (28,952B) 0x8049738: move_new (neigh_swap_rotate.c:9)
+| ->39.23% (28,308B) 0x804A16A: neighbor_new (neigh_swap_rotate.c:169)
+| | ->39.23% (28,308B) 0x804A3AC: neighborhood_new (neigh_swap_rotate.c:221)
+| |   ->39.23% (28,308B) 0x804A46C: neighborhood_generation_inner (neigh_swap_rotate.c:242)
+| |   | ->39.23% (28,308B) 0x80504FC: tabuSearchDefault (tabu.c:1058)
+| |   |   ->39.23% (28,308B) 0x8049678: main (main.c:223)
+| |   |   | 
+| |   |   ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+| |   |   
+| |   ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+| |   
+| ->00.89% (644B) in 1+ places, all below ms_print's threshold (01.00%)
+| 
+->11.21% (8,088B) 0x804A144: neighbor_new (neigh_swap_rotate.c:164)
+| ->11.21% (8,088B) 0x804A3AC: neighborhood_new (neigh_swap_rotate.c:221)
+|   ->11.21% (8,088B) 0x804A46C: neighborhood_generation_inner (neigh_swap_rotate.c:242)
+|   | ->11.21% (8,088B) 0x80504FC: tabuSearchDefault (tabu.c:1058)
+|   |   ->11.21% (8,088B) 0x8049678: main (main.c:223)
+|   |   | 
+|   |   ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+|   |   
+|   ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+|   
+->05.60% (4,044B) 0x804A368: neighborhood_new (neigh_swap_rotate.c:215)
+| ->05.60% (4,044B) 0x804A46C: neighborhood_generation_inner (neigh_swap_rotate.c:242)
+| | ->05.60% (4,044B) 0x80504FC: tabuSearchDefault (tabu.c:1058)
+| |   ->05.60% (4,044B) 0x8049678: main (main.c:223)
+| |   | 
+| |   ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+| |   
+| ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+| 
+->03.34% (2,408B) 0x804BA86: piece_new (solution.c:129)
+| ->01.19% (856B) in 16 places, all below massif's threshold (01.00%)
+| | 
+| ->01.11% (800B) 0x804BCD2: solution_cpy (solution.c:194)
+| | ->01.11% (800B) 0x805061C: tabuSearchDefault (tabu.c:1098)
+| | | ->01.11% (800B) 0x8049678: main (main.c:223)
+| | | | 
+| | | ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+| | | 
+| | ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+| | 
+| ->01.04% (752B) 0x804A28A: neighbor_into_solution (neigh_swap_rotate.c:192)
+|   ->01.04% (752B) 0x8050596: tabuSearchDefault (tabu.c:1079)
+|     ->01.04% (752B) 0x8049678: main (main.c:223)
+|     | 
+|     ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+|     
+->02.77% (2,000B) 0x804B939: square_new (solution.c:53)
+| ->02.77% (2,000B) 0x8048BA3: read_input (input.c:36)
+|   ->02.77% (2,000B) 0x80491C6: main (main.c:164)
+|     
+->01.66% (1,200B) 0x804BB5F: solution_new (solution.c:159)
+| ->01.11% (800B) 0x804BC56: solution_cpy (solution.c:190)
+| | ->01.11% (800B) 0x805061C: tabuSearchDefault (tabu.c:1098)
+| | | ->01.11% (800B) in 2 places, all below massif's threshold (01.00%)
+| | |   
+| | ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+| | 
+| ->00.55% (400B) in 1+ places, all below ms_print's threshold (01.00%)
+| 
+->01.13% (816B) in 9 places, all below massif's threshold (01.00%)
+  
+--------------------------------------------------------------------------------
+  n        time(i)         total(B)   useful-heap(B) extra-heap(B)    stacks(B)
+--------------------------------------------------------------------------------
+ 63 57,562,349,853           40,960           27,464        13,496            0
+ 64 58,224,117,796           72,168           47,508        24,660            0
+ 65 58,885,885,511           72,160           47,508        24,652            0
+ 66 59,547,653,402           72,160           47,508        24,652            0
+ 67 60,209,421,481           72,168           47,508        24,660            0
+ 68 60,871,190,219           72,160           47,508        24,652            0
+ 69 61,532,958,686           72,168           47,508        24,660            0
+ 70 62,194,726,227           40,808           27,348        13,460            0
+ 71 62,856,493,821           72,160           47,508        24,652            0
+ 72 63,518,261,595           72,160           47,508        24,652            0
+65.84% (47,508B) (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+->40.12% (28,952B) 0x8049738: move_new (neigh_swap_rotate.c:9)
+| ->39.23% (28,308B) 0x804A16A: neighbor_new (neigh_swap_rotate.c:169)
+| | ->39.23% (28,308B) 0x804A3AC: neighborhood_new (neigh_swap_rotate.c:221)
+| |   ->39.23% (28,308B) 0x804A46C: neighborhood_generation_inner (neigh_swap_rotate.c:242)
+| |   | ->39.23% (28,308B) 0x80504FC: tabuSearchDefault (tabu.c:1058)
+| |   |   ->39.23% (28,308B) 0x8049678: main (main.c:223)
+| |   |   | 
+| |   |   ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+| |   |   
+| |   ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+| |   
+| ->00.89% (644B) in 1+ places, all below ms_print's threshold (01.00%)
+| 
+->11.21% (8,088B) 0x804A144: neighbor_new (neigh_swap_rotate.c:164)
+| ->11.21% (8,088B) 0x804A3AC: neighborhood_new (neigh_swap_rotate.c:221)
+|   ->11.21% (8,088B) 0x804A46C: neighborhood_generation_inner (neigh_swap_rotate.c:242)
+|   | ->11.21% (8,088B) 0x80504FC: tabuSearchDefault (tabu.c:1058)
+|   |   ->11.21% (8,088B) 0x8049678: main (main.c:223)
+|   |   | 
+|   |   ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+|   |   
+|   ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+|   
+->05.60% (4,044B) 0x804A368: neighborhood_new (neigh_swap_rotate.c:215)
+| ->05.60% (4,044B) 0x804A46C: neighborhood_generation_inner (neigh_swap_rotate.c:242)
+| | ->05.60% (4,044B) 0x80504FC: tabuSearchDefault (tabu.c:1058)
+| |   ->05.60% (4,044B) 0x8049678: main (main.c:223)
+| |   | 
+| |   ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+| |   
+| ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+| 
+->03.34% (2,408B) 0x804BA86: piece_new (solution.c:129)
+| ->01.21% (872B) in 16 places, all below massif's threshold (01.00%)
+| | 
+| ->01.11% (800B) 0x804BCD2: solution_cpy (solution.c:194)
+| | ->01.11% (800B) 0x805061C: tabuSearchDefault (tabu.c:1098)
+| | | ->01.11% (800B) 0x8049678: main (main.c:223)
+| | | | 
+| | | ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+| | | 
+| | ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+| | 
+| ->01.02% (736B) 0x804A28A: neighbor_into_solution (neigh_swap_rotate.c:192)
+|   ->01.02% (736B) 0x8050596: tabuSearchDefault (tabu.c:1079)
+|     ->01.02% (736B) 0x8049678: main (main.c:223)
+|     | 
+|     ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+|     
+->02.77% (2,000B) 0x804B939: square_new (solution.c:53)
+| ->02.77% (2,000B) 0x8048BA3: read_input (input.c:36)
+|   ->02.77% (2,000B) 0x80491C6: main (main.c:164)
+|     
+->01.66% (1,200B) 0x804BB5F: solution_new (solution.c:159)
+| ->01.11% (800B) 0x804BC56: solution_cpy (solution.c:190)
+| | ->01.11% (800B) 0x805061C: tabuSearchDefault (tabu.c:1098)
+| | | ->01.11% (800B) in 2 places, all below massif's threshold (01.00%)
+| | |   
+| | ->00.00% (0B) in 1+ places, all below ms_print's threshold (01.00%)
+| | 
+| ->00.55% (400B) in 1+ places, all below ms_print's threshold (01.00%)
+| 
+->01.13% (816B) in 9 places, all below massif's threshold (01.00%)
+  
+--------------------------------------------------------------------------------
+  n        time(i)         total(B)   useful-heap(B) extra-heap(B)    stacks(B)
+--------------------------------------------------------------------------------
+ 73 64,180,029,317           72,168           47,508        24,660            0
+ 74 64,841,796,948           72,168           47,508        24,660            0
+ 75 65,503,564,995           72,168           47,508        24,660            0
+ 76 66,165,332,958           72,168           47,508        24,660            0
+ 77 66,827,100,716           72,160           47,508        24,652            0
+ 78 67,488,868,641           72,176           47,508        24,668            0
+ 79 68,150,636,885           11,664            7,188         4,476            0

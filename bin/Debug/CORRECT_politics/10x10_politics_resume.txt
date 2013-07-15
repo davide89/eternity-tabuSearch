@@ -1,0 +1,330 @@
+----------------------
+TabuListsNumber: TRIPLE
+CornerGenerator: CCORNER_FIRST
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+MaximumScore: 180
+AverageScore: 152.278
+AverageSolutionQuality: 84.599%
+BestScoreOverall: 165
+BestSolutionQuality: 91.667%
+----------------------
+----------------------
+TabuListsNumber: TRIPLE
+CornerGenerator: CCORNER_FIRST
+EdgeGenerator: EEDGE_NEXT
+InnerGenerator: IINNER_NEXT
+MaximumScore: 180
+AverageScore: 154.345
+AverageSolutionQuality: 85.747%
+BestScoreOverall: 163
+BestSolutionQuality: 90.556%
+----------------------
+----------------------
+TabuListsNumber: TRIPLE
+CornerGenerator: CCORNER_FIRST
+EdgeGenerator: EEDGE_NEXT_ANTI
+InnerGenerator: IINNER_NEXT
+MaximumScore: 180
+AverageScore: 153.719
+AverageSolutionQuality: 85.399%
+BestScoreOverall: 163
+BestSolutionQuality: 90.556%
+----------------------
+----------------------
+TabuListsNumber: TRIPLE
+CornerGenerator: CCORNER_FIRST
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_OPPOSITE
+MaximumScore: 180
+AverageScore: 151.602
+AverageSolutionQuality: 84.223%
+BestScoreOverall: 162
+BestSolutionQuality: 90.000%
+----------------------
+----------------------
+TabuListsNumber: TRIPLE
+CornerGenerator: CCORNER_FIRST
+EdgeGenerator: EEDGE_NEXT
+InnerGenerator: IINNER_OPPOSITE
+MaximumScore: 180
+AverageScore: 152.962
+AverageSolutionQuality: 84.979%
+BestScoreOverall: 162
+BestSolutionQuality: 90.000%
+----------------------
+----------------------
+TabuListsNumber: TRIPLE
+CornerGenerator: CCORNER_FIRST
+EdgeGenerator: EEDGE_NEXT_ANTI
+InnerGenerator: IINNER_OPPOSITE
+MaximumScore: 180
+AverageScore: 152.361
+AverageSolutionQuality: 84.645%
+BestScoreOverall: 162
+BestSolutionQuality: 90.000%
+----------------------
+----------------------
+TabuListsNumber: TRIPLE
+CornerGenerator: CCORNER_FIRST
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_OPPOSITE_AUX
+MaximumScore: 180
+AverageScore: 140.340
+AverageSolutionQuality: 77.967%
+BestScoreOverall: 148
+BestSolutionQuality: 82.222%
+----------------------
+----------------------
+TabuListsNumber: TRIPLE
+CornerGenerator: CCORNER_FIRST
+EdgeGenerator: EEDGE_NEXT
+InnerGenerator: IINNER_OPPOSITE_AUX
+MaximumScore: 180
+AverageScore: 140.298
+AverageSolutionQuality: 77.943%
+BestScoreOverall: 147
+BestSolutionQuality: 81.667%
+----------------------
+----------------------
+TabuListsNumber: TRIPLE
+CornerGenerator: CCORNER_FIRST
+EdgeGenerator: EEDGE_NEXT_ANTI
+InnerGenerator: IINNER_OPPOSITE_AUX
+MaximumScore: 180
+AverageScore: 140.124
+AverageSolutionQuality: 77.847%
+BestScoreOverall: 148
+BestSolutionQuality: 82.222%
+----------------------
+----------------------
+TabuListsNumber: TRIPLE
+CornerGenerator: CCORNER_FIRST
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_RAND
+MaximumScore: 180
+AverageScore: 136.252
+AverageSolutionQuality: 75.696%
+BestScoreOverall: 143
+BestSolutionQuality: 79.444%
+----------------------
+----------------------
+TabuListsNumber: TRIPLE
+CornerGenerator: CCORNER_FIRST
+EdgeGenerator: EEDGE_NEXT
+InnerGenerator: IINNER_RAND
+MaximumScore: 180
+AverageScore: 135.632
+AverageSolutionQuality: 75.351%
+BestScoreOverall: 142
+BestSolutionQuality: 78.889%
+----------------------
+----------------------
+TabuListsNumber: TRIPLE
+CornerGenerator: CCORNER_FIRST
+EdgeGenerator: EEDGE_NEXT_ANTI
+InnerGenerator: IINNER_RAND
+MaximumScore: 180
+AverageScore: 135.589
+AverageSolutionQuality: 75.327%
+BestScoreOverall: 141
+BestSolutionQuality: 78.333%
+----------------------
+----------------------
+TabuListsNumber: TRIPLE
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+MaximumScore: 180
+AverageScore: 152.278
+AverageSolutionQuality: 84.599%
+BestScoreOverall: 165
+BestSolutionQuality: 91.667%
+----------------------
+----------------------
+TabuListsNumber: TRIPLE
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_OPPOSITE
+MaximumScore: 180
+AverageScore: 151.602
+AverageSolutionQuality: 84.223%
+BestScoreOverall: 162
+BestSolutionQuality: 90.000%
+----------------------
+----------------------
+TabuListsNumber: TRIPLE
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_OPPOSITE_AUX
+MaximumScore: 180
+AverageScore: 140.340
+AverageSolutionQuality: 77.967%
+BestScoreOverall: 148
+BestSolutionQuality: 82.222%
+----------------------
+----------------------
+TabuListsNumber: TRIPLE
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_NEXT
+InnerGenerator: IINNER_NEXT
+MaximumScore: 180
+AverageScore: 154.345
+AverageSolutionQuality: 85.747%
+BestScoreOverall: 163
+BestSolutionQuality: 90.556%
+----------------------
+----------------------
+TabuListsNumber: TRIPLE
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_NEXT
+InnerGenerator: IINNER_OPPOSITE
+MaximumScore: 180
+AverageScore: 152.962
+AverageSolutionQuality: 84.979%
+BestScoreOverall: 162
+BestSolutionQuality: 90.000%
+----------------------
+----------------------
+TabuListsNumber: TRIPLE
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_NEXT
+InnerGenerator: IINNER_OPPOSITE_AUX
+MaximumScore: 180
+AverageScore: 140.298
+AverageSolutionQuality: 77.943%
+BestScoreOverall: 147
+BestSolutionQuality: 81.667%
+----------------------
+----------------------
+TabuListsNumber: TRIPLE
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_NEXT_ANTI
+InnerGenerator: IINNER_NEXT
+MaximumScore: 180
+AverageScore: 153.719
+AverageSolutionQuality: 85.399%
+BestScoreOverall: 163
+BestSolutionQuality: 90.556%
+----------------------
+----------------------
+TabuListsNumber: TRIPLE
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_NEXT_ANTI
+InnerGenerator: IINNER_OPPOSITE
+MaximumScore: 180
+AverageScore: 152.361
+AverageSolutionQuality: 84.645%
+BestScoreOverall: 162
+BestSolutionQuality: 90.000%
+----------------------
+----------------------
+TabuListsNumber: TRIPLE
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_NEXT_ANTI
+InnerGenerator: IINNER_OPPOSITE_AUX
+MaximumScore: 180
+AverageScore: 140.124
+AverageSolutionQuality: 77.847%
+BestScoreOverall: 148
+BestSolutionQuality: 82.222%
+----------------------
+----------------------
+TabuListsNumber: TRIPLE
+CornerGenerator: CCORNER_OPPOSITE
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+MaximumScore: 180
+AverageScore: 147.276
+AverageSolutionQuality: 81.820%
+BestScoreOverall: 159
+BestSolutionQuality: 88.333%
+----------------------
+----------------------
+TabuListsNumber: TRIPLE
+CornerGenerator: CCORNER_OPPOSITE
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_OPPOSITE
+MaximumScore: 180
+AverageScore: 142.878
+AverageSolutionQuality: 79.377%
+BestScoreOverall: 155
+BestSolutionQuality: 86.111%
+----------------------
+----------------------
+TabuListsNumber: TRIPLE
+CornerGenerator: CCORNER_OPPOSITE
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_OPPOSITE_AUX
+MaximumScore: 180
+AverageScore: 139.202
+AverageSolutionQuality: 77.334%
+BestScoreOverall: 149
+BestSolutionQuality: 82.778%
+----------------------
+----------------------
+TabuListsNumber: TRIPLE
+CornerGenerator: CCORNER_OPPOSITE
+EdgeGenerator: EEDGE_NEXT
+InnerGenerator: IINNER_NEXT
+MaximumScore: 180
+AverageScore: 153.202
+AverageSolutionQuality: 85.112%
+BestScoreOverall: 162
+BestSolutionQuality: 90.000%
+----------------------
+----------------------
+TabuListsNumber: TRIPLE
+CornerGenerator: CCORNER_OPPOSITE
+EdgeGenerator: EEDGE_NEXT
+InnerGenerator: IINNER_OPPOSITE
+MaximumScore: 180
+AverageScore: 151.544
+AverageSolutionQuality: 84.191%
+BestScoreOverall: 162
+BestSolutionQuality: 90.000%
+----------------------
+----------------------
+TabuListsNumber: TRIPLE
+CornerGenerator: CCORNER_OPPOSITE
+EdgeGenerator: EEDGE_NEXT
+InnerGenerator: IINNER_OPPOSITE_AUX
+MaximumScore: 180
+AverageScore: 140.280
+AverageSolutionQuality: 77.933%
+BestScoreOverall: 148
+BestSolutionQuality: 82.222%
+----------------------
+----------------------
+TabuListsNumber: TRIPLE
+CornerGenerator: CCORNER_OPPOSITE
+EdgeGenerator: EEDGE_NEXT_ANTI
+InnerGenerator: IINNER_NEXT
+MaximumScore: 180
+AverageScore: 152.733
+AverageSolutionQuality: 84.852%
+BestScoreOverall: 162
+BestSolutionQuality: 90.000%
+----------------------
+----------------------
+TabuListsNumber: TRIPLE
+CornerGenerator: CCORNER_OPPOSITE
+EdgeGenerator: EEDGE_NEXT_ANTI
+InnerGenerator: IINNER_OPPOSITE
+MaximumScore: 180
+AverageScore: 151.026
+AverageSolutionQuality: 83.903%
+BestScoreOverall: 161
+BestSolutionQuality: 89.444%
+----------------------
+----------------------
+TabuListsNumber: TRIPLE
+CornerGenerator: CCORNER_OPPOSITE
+EdgeGenerator: EEDGE_NEXT_ANTI
+InnerGenerator: IINNER_OPPOSITE_AUX
+MaximumScore: 180
+AverageScore: 140.410
+AverageSolutionQuality: 78.006%
+BestScoreOverall: 148
+BestSolutionQuality: 82.222%
+----------------------

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/106/trunk/bin/Debug/politics
+END
+eternity_politics.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/106/trunk/bin/Debug/politics/eternity_politics.sh
+END
+eternity_politics_results.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/91/trunk/bin/Debug/politics/eternity_politics_results.sh
+END
+eternity_politics_scores.awk
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/91/trunk/bin/Debug/politics/eternity_politics_scores.awk
+END
+eternity_politics.awk
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/91/trunk/bin/Debug/politics/eternity_politics.awk
+END
+eternity_politics_winner.awk
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/91/trunk/bin/Debug/politics/eternity_politics_winner.awk
+END

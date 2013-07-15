@@ -1,0 +1,24 @@
+----------------------
+BEST_SOLUTION_POLITIC
+TabuListsNumber: TRIPLE
+CornerGenerator: CCORNER_OPPOSITE
+EdgeGenerator: EEDGE_NEXT
+InnerGenerator: IINNER_OPPOSITE
+MaximumScore: 60
+AverageScore: 53.984
+AverageSolutionQuality: 89.974%
+BestScoreOverall: 58
+BestSolutionQuality: 96.667%
+----------------------
+----------------------
+AVERAGE_SOLUTION_POLITIC
+TabuListsNumber: TRIPLE
+CornerGenerator: CCORNER_OPPOSITE
+EdgeGenerator: EEDGE_NEXT
+InnerGenerator: IINNER_OPPOSITE
+MaximumScore: 60
+AverageScore: 53.984
+AverageSolutionQuality: 89.974%
+BestScoreOverall: 58
+BestSolutionQuality: 96.667%
+----------------------

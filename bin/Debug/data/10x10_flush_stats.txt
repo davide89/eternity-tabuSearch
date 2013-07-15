@@ -1,0 +1,3202 @@
+pieces_10x10.txt
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 1
+------------------------------------
+StartScore: 24
+SecondStartScore: 149
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 19
+TabuListHit: 26829
+StuckHit: 9
+BestScoreStep: 98424
+BestScore: 155
+SolutionQuality: 86.111%
+------------------------------------
+ExecutionTime: 29.179928
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 2
+------------------------------------
+StartScore: 18
+SecondStartScore: 147
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 18
+TabuListHit: 25071
+StuckHit: 9
+BestScoreStep: 84599
+BestScore: 155
+SolutionQuality: 86.111%
+------------------------------------
+ExecutionTime: 29.492338
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 3
+------------------------------------
+StartScore: 25
+SecondStartScore: 150
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 19
+TabuListHit: 25251
+StuckHit: 9
+BestScoreStep: 19257
+BestScore: 157
+SolutionQuality: 87.222%
+------------------------------------
+ExecutionTime: 28.926465
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 4
+------------------------------------
+StartScore: 18
+SecondStartScore: 144
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 16
+TabuListHit: 24694
+StuckHit: 9
+BestScoreStep: 76878
+BestScore: 157
+SolutionQuality: 87.222%
+------------------------------------
+ExecutionTime: 29.326576
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 5
+------------------------------------
+StartScore: 26
+SecondStartScore: 151
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 18
+TabuListHit: 27649
+StuckHit: 9
+BestScoreStep: 789
+BestScore: 156
+SolutionQuality: 86.667%
+------------------------------------
+ExecutionTime: 29.130823
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 6
+------------------------------------
+StartScore: 27
+SecondStartScore: 147
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 20
+TabuListHit: 24996
+StuckHit: 9
+BestScoreStep: 24417
+BestScore: 154
+SolutionQuality: 85.556%
+------------------------------------
+ExecutionTime: 29.805618
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 7
+------------------------------------
+StartScore: 17
+SecondStartScore: 150
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 19
+TabuListHit: 27689
+StuckHit: 9
+BestScoreStep: 74062
+BestScore: 154
+SolutionQuality: 85.556%
+------------------------------------
+ExecutionTime: 28.729327
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 8
+------------------------------------
+StartScore: 26
+SecondStartScore: 147
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 19
+TabuListHit: 27801
+StuckHit: 9
+BestScoreStep: 26187
+BestScore: 155
+SolutionQuality: 86.111%
+------------------------------------
+ExecutionTime: 29.845368
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 9
+------------------------------------
+StartScore: 22
+SecondStartScore: 150
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 19
+TabuListHit: 27337
+StuckHit: 9
+BestScoreStep: 42429
+BestScore: 159
+SolutionQuality: 88.333%
+------------------------------------
+ExecutionTime: 28.831603
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 10
+------------------------------------
+StartScore: 24
+SecondStartScore: 151
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 19
+TabuListHit: 24022
+StuckHit: 9
+BestScoreStep: 91231
+BestScore: 157
+SolutionQuality: 87.222%
+------------------------------------
+ExecutionTime: 29.722716
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 11
+------------------------------------
+StartScore: 19
+SecondStartScore: 145
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 18
+TabuListHit: 20976
+StuckHit: 9
+BestScoreStep: 36076
+BestScore: 155
+SolutionQuality: 86.111%
+------------------------------------
+ExecutionTime: 29.293730
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 12
+------------------------------------
+StartScore: 18
+SecondStartScore: 147
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 18
+TabuListHit: 25922
+StuckHit: 9
+BestScoreStep: 14204
+BestScore: 155
+SolutionQuality: 86.111%
+------------------------------------
+ExecutionTime: 29.916574
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 13
+------------------------------------
+StartScore: 28
+SecondStartScore: 149
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 17
+TabuListHit: 20415
+StuckHit: 9
+BestScoreStep: 95602
+BestScore: 154
+SolutionQuality: 85.556%
+------------------------------------
+ExecutionTime: 29.569764
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 14
+------------------------------------
+StartScore: 30
+SecondStartScore: 145
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 20
+TabuListHit: 28022
+StuckHit: 9
+BestScoreStep: 46788
+BestScore: 159
+SolutionQuality: 88.333%
+------------------------------------
+ExecutionTime: 30.081996
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 15
+------------------------------------
+StartScore: 26
+SecondStartScore: 147
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 19
+TabuListHit: 26841
+StuckHit: 9
+BestScoreStep: 58644
+BestScore: 156
+SolutionQuality: 86.667%
+------------------------------------
+ExecutionTime: 29.025298
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 16
+------------------------------------
+StartScore: 28
+SecondStartScore: 146
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 18
+TabuListHit: 23277
+StuckHit: 9
+BestScoreStep: 47946
+BestScore: 156
+SolutionQuality: 86.667%
+------------------------------------
+ExecutionTime: 29.759818
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 17
+------------------------------------
+StartScore: 23
+SecondStartScore: 148
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 18
+TabuListHit: 6738
+StuckHit: 9
+BestScoreStep: 18492
+BestScore: 151
+SolutionQuality: 83.889%
+------------------------------------
+ExecutionTime: 29.460245
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 18
+------------------------------------
+StartScore: 23
+SecondStartScore: 150
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 21
+TabuListHit: 24211
+StuckHit: 9
+BestScoreStep: 91551
+BestScore: 156
+SolutionQuality: 86.667%
+------------------------------------
+ExecutionTime: 30.189251
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 19
+------------------------------------
+StartScore: 21
+SecondStartScore: 145
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 18
+TabuListHit: 27936
+StuckHit: 9
+BestScoreStep: 56342
+BestScore: 157
+SolutionQuality: 87.222%
+------------------------------------
+ExecutionTime: 29.051186
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 20
+------------------------------------
+StartScore: 19
+SecondStartScore: 152
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 21
+TabuListHit: 23111
+StuckHit: 9
+BestScoreStep: 66775
+BestScore: 155
+SolutionQuality: 86.111%
+------------------------------------
+ExecutionTime: 29.513675
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 21
+------------------------------------
+StartScore: 18
+SecondStartScore: 147
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 19
+TabuListHit: 26317
+StuckHit: 9
+BestScoreStep: 54138
+BestScore: 160
+SolutionQuality: 88.889%
+------------------------------------
+ExecutionTime: 29.120398
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 22
+------------------------------------
+StartScore: 25
+SecondStartScore: 142
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 18
+TabuListHit: 25346
+StuckHit: 9
+BestScoreStep: 29466
+BestScore: 156
+SolutionQuality: 86.667%
+------------------------------------
+ExecutionTime: 29.446528
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 23
+------------------------------------
+StartScore: 24
+SecondStartScore: 146
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 19
+TabuListHit: 27615
+StuckHit: 9
+BestScoreStep: 75583
+BestScore: 157
+SolutionQuality: 87.222%
+------------------------------------
+ExecutionTime: 29.377950
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 24
+------------------------------------
+StartScore: 31
+SecondStartScore: 149
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 19
+TabuListHit: 26233
+StuckHit: 9
+BestScoreStep: 89051
+BestScore: 156
+SolutionQuality: 86.667%
+------------------------------------
+ExecutionTime: 29.589687
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 25
+------------------------------------
+StartScore: 30
+SecondStartScore: 146
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 19
+TabuListHit: 27675
+StuckHit: 9
+BestScoreStep: 4801
+BestScore: 154
+SolutionQuality: 85.556%
+------------------------------------
+ExecutionTime: 29.613863
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 26
+------------------------------------
+StartScore: 21
+SecondStartScore: 144
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 20
+TabuListHit: 28362
+StuckHit: 9
+BestScoreStep: 93829
+BestScore: 153
+SolutionQuality: 85.000%
+------------------------------------
+ExecutionTime: 30.191480
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 27
+------------------------------------
+StartScore: 31
+SecondStartScore: 148
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 19
+TabuListHit: 22339
+StuckHit: 9
+BestScoreStep: 83509
+BestScore: 154
+SolutionQuality: 85.556%
+------------------------------------
+ExecutionTime: 29.635027
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 28
+------------------------------------
+StartScore: 22
+SecondStartScore: 149
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 18
+TabuListHit: 15018
+StuckHit: 9
+BestScoreStep: 52343
+BestScore: 160
+SolutionQuality: 88.889%
+------------------------------------
+ExecutionTime: 30.367804
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 29
+------------------------------------
+StartScore: 25
+SecondStartScore: 149
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 23
+TabuListHit: 27516
+StuckHit: 9
+BestScoreStep: 80664
+BestScore: 159
+SolutionQuality: 88.333%
+------------------------------------
+ExecutionTime: 29.587752
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 30
+------------------------------------
+StartScore: 27
+SecondStartScore: 146
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 18
+TabuListHit: 27383
+StuckHit: 9
+BestScoreStep: 51326
+BestScore: 156
+SolutionQuality: 86.667%
+------------------------------------
+ExecutionTime: 30.476626
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 31
+------------------------------------
+StartScore: 25
+SecondStartScore: 148
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 17
+TabuListHit: 27411
+StuckHit: 9
+BestScoreStep: 75014
+BestScore: 156
+SolutionQuality: 86.667%
+------------------------------------
+ExecutionTime: 30.293255
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 32
+------------------------------------
+StartScore: 20
+SecondStartScore: 148
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 23
+TabuListHit: 27212
+StuckHit: 9
+BestScoreStep: 39352
+BestScore: 157
+SolutionQuality: 87.222%
+------------------------------------
+ExecutionTime: 29.158431
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 33
+------------------------------------
+StartScore: 18
+SecondStartScore: 146
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 21
+TabuListHit: 27909
+StuckHit: 9
+BestScoreStep: 64804
+BestScore: 157
+SolutionQuality: 87.222%
+------------------------------------
+ExecutionTime: 28.908780
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 34
+------------------------------------
+StartScore: 28
+SecondStartScore: 149
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 18
+TabuListHit: 24970
+StuckHit: 9
+BestScoreStep: 32302
+BestScore: 156
+SolutionQuality: 86.667%
+------------------------------------
+ExecutionTime: 29.110864
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 35
+------------------------------------
+StartScore: 24
+SecondStartScore: 147
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 17
+TabuListHit: 18478
+StuckHit: 9
+BestScoreStep: 46380
+BestScore: 153
+SolutionQuality: 85.000%
+------------------------------------
+ExecutionTime: 30.249694
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 36
+------------------------------------
+StartScore: 27
+SecondStartScore: 144
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 19
+TabuListHit: 28311
+StuckHit: 9
+BestScoreStep: 14447
+BestScore: 155
+SolutionQuality: 86.111%
+------------------------------------
+ExecutionTime: 30.391646
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 37
+------------------------------------
+StartScore: 22
+SecondStartScore: 146
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 19
+TabuListHit: 27763
+StuckHit: 9
+BestScoreStep: 43188
+BestScore: 159
+SolutionQuality: 88.333%
+------------------------------------
+ExecutionTime: 29.651190
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 38
+------------------------------------
+StartScore: 24
+SecondStartScore: 142
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 16
+TabuListHit: 25815
+StuckHit: 9
+BestScoreStep: 13601
+BestScore: 154
+SolutionQuality: 85.556%
+------------------------------------
+ExecutionTime: 29.955407
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 39
+------------------------------------
+StartScore: 27
+SecondStartScore: 148
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 23
+TabuListHit: 27717
+StuckHit: 9
+BestScoreStep: 75830
+BestScore: 159
+SolutionQuality: 88.333%
+------------------------------------
+ExecutionTime: 30.154865
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 40
+------------------------------------
+StartScore: 22
+SecondStartScore: 146
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 19
+TabuListHit: 26228
+StuckHit: 9
+BestScoreStep: 93155
+BestScore: 156
+SolutionQuality: 86.667%
+------------------------------------
+ExecutionTime: 29.629564
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 41
+------------------------------------
+StartScore: 20
+SecondStartScore: 147
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 17
+TabuListHit: 26914
+StuckHit: 9
+BestScoreStep: 99659
+BestScore: 157
+SolutionQuality: 87.222%
+------------------------------------
+ExecutionTime: 28.914081
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 42
+------------------------------------
+StartScore: 24
+SecondStartScore: 147
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 17
+TabuListHit: 27402
+StuckHit: 9
+BestScoreStep: 86096
+BestScore: 158
+SolutionQuality: 87.778%
+------------------------------------
+ExecutionTime: 29.547489
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 43
+------------------------------------
+StartScore: 18
+SecondStartScore: 149
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 18
+TabuListHit: 27916
+StuckHit: 9
+BestScoreStep: 64138
+BestScore: 156
+SolutionQuality: 86.667%
+------------------------------------
+ExecutionTime: 29.362322
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 44
+------------------------------------
+StartScore: 20
+SecondStartScore: 147
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 19
+TabuListHit: 29065
+StuckHit: 9
+BestScoreStep: 74996
+BestScore: 156
+SolutionQuality: 86.667%
+------------------------------------
+ExecutionTime: 29.312376
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 45
+------------------------------------
+StartScore: 17
+SecondStartScore: 152
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 21
+TabuListHit: 27109
+StuckHit: 9
+BestScoreStep: 30375
+BestScore: 157
+SolutionQuality: 87.222%
+------------------------------------
+ExecutionTime: 28.816403
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 46
+------------------------------------
+StartScore: 26
+SecondStartScore: 152
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 23
+TabuListHit: 20333
+StuckHit: 9
+BestScoreStep: 57955
+BestScore: 155
+SolutionQuality: 86.111%
+------------------------------------
+ExecutionTime: 29.589641
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 47
+------------------------------------
+StartScore: 23
+SecondStartScore: 151
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 18
+TabuListHit: 24188
+StuckHit: 9
+BestScoreStep: 81015
+BestScore: 156
+SolutionQuality: 86.667%
+------------------------------------
+ExecutionTime: 29.366731
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 48
+------------------------------------
+StartScore: 27
+SecondStartScore: 141
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 21
+TabuListHit: 27782
+StuckHit: 9
+BestScoreStep: 31583
+BestScore: 161
+SolutionQuality: 89.444%
+------------------------------------
+ExecutionTime: 29.673645
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 49
+------------------------------------
+StartScore: 32
+SecondStartScore: 148
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 20
+TabuListHit: 27631
+StuckHit: 9
+BestScoreStep: 45714
+BestScore: 157
+SolutionQuality: 87.222%
+------------------------------------
+ExecutionTime: 29.288818
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 50
+------------------------------------
+StartScore: 27
+SecondStartScore: 147
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 23
+TabuListHit: 28158
+StuckHit: 9
+BestScoreStep: 38257
+BestScore: 155
+SolutionQuality: 86.111%
+------------------------------------
+ExecutionTime: 29.272397
+####################################
+pieces_10x10.txt
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 51
+------------------------------------
+StartScore: 23
+SecondStartScore: 144
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 19
+TabuListHit: 27064
+StuckHit: 9
+BestScoreStep: 98663
+BestScore: 158
+SolutionQuality: 87.778%
+------------------------------------
+ExecutionTime: 30.553823
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 52
+------------------------------------
+StartScore: 24
+SecondStartScore: 147
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 17
+TabuListHit: 27637
+StuckHit: 9
+BestScoreStep: 10019
+BestScore: 159
+SolutionQuality: 88.333%
+------------------------------------
+ExecutionTime: 30.711751
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 53
+------------------------------------
+StartScore: 21
+SecondStartScore: 143
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 17
+TabuListHit: 24881
+StuckHit: 9
+BestScoreStep: 34764
+BestScore: 157
+SolutionQuality: 87.222%
+------------------------------------
+ExecutionTime: 30.564711
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 54
+------------------------------------
+StartScore: 28
+SecondStartScore: 151
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 22
+TabuListHit: 25734
+StuckHit: 9
+BestScoreStep: 10271
+BestScore: 154
+SolutionQuality: 85.556%
+------------------------------------
+ExecutionTime: 30.609061
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 55
+------------------------------------
+StartScore: 13
+SecondStartScore: 146
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 19
+TabuListHit: 26759
+StuckHit: 9
+BestScoreStep: 36765
+BestScore: 156
+SolutionQuality: 86.667%
+------------------------------------
+ExecutionTime: 30.606936
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 56
+------------------------------------
+StartScore: 28
+SecondStartScore: 150
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 18
+TabuListHit: 23654
+StuckHit: 9
+BestScoreStep: 75972
+BestScore: 157
+SolutionQuality: 87.222%
+------------------------------------
+ExecutionTime: 30.450646
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 57
+------------------------------------
+StartScore: 24
+SecondStartScore: 145
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 20
+TabuListHit: 27970
+StuckHit: 9
+BestScoreStep: 73166
+BestScore: 154
+SolutionQuality: 85.556%
+------------------------------------
+ExecutionTime: 30.595372
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 58
+------------------------------------
+StartScore: 17
+SecondStartScore: 146
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 21
+TabuListHit: 28682
+StuckHit: 9
+BestScoreStep: 87380
+BestScore: 159
+SolutionQuality: 88.333%
+------------------------------------
+ExecutionTime: 30.543656
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 59
+------------------------------------
+StartScore: 26
+SecondStartScore: 146
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 19
+TabuListHit: 22802
+StuckHit: 9
+BestScoreStep: 90482
+BestScore: 159
+SolutionQuality: 88.333%
+------------------------------------
+ExecutionTime: 30.015933
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 60
+------------------------------------
+StartScore: 26
+SecondStartScore: 146
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 19
+TabuListHit: 22337
+StuckHit: 9
+BestScoreStep: 50909
+BestScore: 155
+SolutionQuality: 86.111%
+------------------------------------
+ExecutionTime: 30.787915
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 61
+------------------------------------
+StartScore: 12
+SecondStartScore: 148
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 19
+TabuListHit: 26235
+StuckHit: 9
+BestScoreStep: 26239
+BestScore: 154
+SolutionQuality: 85.556%
+------------------------------------
+ExecutionTime: 29.973111
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 62
+------------------------------------
+StartScore: 23
+SecondStartScore: 147
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 19
+TabuListHit: 28089
+StuckHit: 9
+BestScoreStep: 25903
+BestScore: 154
+SolutionQuality: 85.556%
+------------------------------------
+ExecutionTime: 30.151879
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 63
+------------------------------------
+StartScore: 17
+SecondStartScore: 148
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 19
+TabuListHit: 26881
+StuckHit: 9
+BestScoreStep: 62379
+BestScore: 156
+SolutionQuality: 86.667%
+------------------------------------
+ExecutionTime: 29.648584
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 64
+------------------------------------
+StartScore: 30
+SecondStartScore: 151
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 17
+TabuListHit: 25421
+StuckHit: 9
+BestScoreStep: 40524
+BestScore: 158
+SolutionQuality: 87.778%
+------------------------------------
+ExecutionTime: 29.874867
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 65
+------------------------------------
+StartScore: 31
+SecondStartScore: 148
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 21
+TabuListHit: 27988
+StuckHit: 9
+BestScoreStep: 32623
+BestScore: 157
+SolutionQuality: 87.222%
+------------------------------------
+ExecutionTime: 30.304321
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 66
+------------------------------------
+StartScore: 20
+SecondStartScore: 151
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 21
+TabuListHit: 27283
+StuckHit: 9
+BestScoreStep: 287
+BestScore: 153
+SolutionQuality: 85.000%
+------------------------------------
+ExecutionTime: 29.532235
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 67
+------------------------------------
+StartScore: 28
+SecondStartScore: 152
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 19
+TabuListHit: 23422
+StuckHit: 9
+BestScoreStep: 44227
+BestScore: 155
+SolutionQuality: 86.111%
+------------------------------------
+ExecutionTime: 29.979909
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 68
+------------------------------------
+StartScore: 27
+SecondStartScore: 148
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 21
+TabuListHit: 27239
+StuckHit: 9
+BestScoreStep: 88813
+BestScore: 156
+SolutionQuality: 86.667%
+------------------------------------
+ExecutionTime: 30.120066
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 69
+------------------------------------
+StartScore: 23
+SecondStartScore: 148
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 20
+TabuListHit: 27831
+StuckHit: 9
+BestScoreStep: 84213
+BestScore: 157
+SolutionQuality: 87.222%
+------------------------------------
+ExecutionTime: 30.470945
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 70
+------------------------------------
+StartScore: 15
+SecondStartScore: 148
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 19
+TabuListHit: 26405
+StuckHit: 9
+BestScoreStep: 38435
+BestScore: 155
+SolutionQuality: 86.111%
+------------------------------------
+ExecutionTime: 29.885308
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 71
+------------------------------------
+StartScore: 24
+SecondStartScore: 144
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 19
+TabuListHit: 15026
+StuckHit: 9
+BestScoreStep: 27828
+BestScore: 157
+SolutionQuality: 87.222%
+------------------------------------
+ExecutionTime: 30.450867
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 72
+------------------------------------
+StartScore: 24
+SecondStartScore: 147
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 18
+TabuListHit: 28583
+StuckHit: 9
+BestScoreStep: 92100
+BestScore: 158
+SolutionQuality: 87.778%
+------------------------------------
+ExecutionTime: 29.784496
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 73
+------------------------------------
+StartScore: 20
+SecondStartScore: 152
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 24
+TabuListHit: 26876
+StuckHit: 9
+BestScoreStep: 36540
+BestScore: 158
+SolutionQuality: 87.778%
+------------------------------------
+ExecutionTime: 31.096098
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 74
+------------------------------------
+StartScore: 23
+SecondStartScore: 142
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 18
+TabuListHit: 25759
+StuckHit: 9
+BestScoreStep: 71716
+BestScore: 156
+SolutionQuality: 86.667%
+------------------------------------
+ExecutionTime: 29.254963
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 75
+------------------------------------
+StartScore: 21
+SecondStartScore: 149
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 18
+TabuListHit: 11323
+StuckHit: 9
+BestScoreStep: 12444
+BestScore: 154
+SolutionQuality: 85.556%
+------------------------------------
+ExecutionTime: 29.732947
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 76
+------------------------------------
+StartScore: 27
+SecondStartScore: 148
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 24
+TabuListHit: 27084
+StuckHit: 9
+BestScoreStep: 77066
+BestScore: 156
+SolutionQuality: 86.667%
+------------------------------------
+ExecutionTime: 29.375191
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 77
+------------------------------------
+StartScore: 25
+SecondStartScore: 147
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 19
+TabuListHit: 25183
+StuckHit: 9
+BestScoreStep: 33756
+BestScore: 156
+SolutionQuality: 86.667%
+------------------------------------
+ExecutionTime: 29.810967
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 78
+------------------------------------
+StartScore: 27
+SecondStartScore: 144
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 18
+TabuListHit: 25468
+StuckHit: 9
+BestScoreStep: 98972
+BestScore: 161
+SolutionQuality: 89.444%
+------------------------------------
+ExecutionTime: 29.270530
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 79
+------------------------------------
+StartScore: 21
+SecondStartScore: 147
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 18
+TabuListHit: 27759
+StuckHit: 9
+BestScoreStep: 82231
+BestScore: 158
+SolutionQuality: 87.778%
+------------------------------------
+ExecutionTime: 29.374657
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 80
+------------------------------------
+StartScore: 24
+SecondStartScore: 145
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 20
+TabuListHit: 26679
+StuckHit: 9
+BestScoreStep: 45424
+BestScore: 155
+SolutionQuality: 86.111%
+------------------------------------
+ExecutionTime: 29.422613
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 81
+------------------------------------
+StartScore: 17
+SecondStartScore: 148
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 19
+TabuListHit: 26847
+StuckHit: 9
+BestScoreStep: 31376
+BestScore: 156
+SolutionQuality: 86.667%
+------------------------------------
+ExecutionTime: 30.741217
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 82
+------------------------------------
+StartScore: 26
+SecondStartScore: 148
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 20
+TabuListHit: 22280
+StuckHit: 9
+BestScoreStep: 89
+BestScore: 151
+SolutionQuality: 83.889%
+------------------------------------
+ExecutionTime: 30.246028
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 83
+------------------------------------
+StartScore: 23
+SecondStartScore: 143
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 19
+TabuListHit: 28116
+StuckHit: 9
+BestScoreStep: 97606
+BestScore: 159
+SolutionQuality: 88.333%
+------------------------------------
+ExecutionTime: 30.848967
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 84
+------------------------------------
+StartScore: 26
+SecondStartScore: 152
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 19
+TabuListHit: 27782
+StuckHit: 9
+BestScoreStep: 52373
+BestScore: 157
+SolutionQuality: 87.222%
+------------------------------------
+ExecutionTime: 28.872893
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 85
+------------------------------------
+StartScore: 20
+SecondStartScore: 150
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 19
+TabuListHit: 27253
+StuckHit: 9
+BestScoreStep: 12977
+BestScore: 155
+SolutionQuality: 86.111%
+------------------------------------
+ExecutionTime: 29.632454
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 86
+------------------------------------
+StartScore: 26
+SecondStartScore: 149
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 17
+TabuListHit: 23393
+StuckHit: 9
+BestScoreStep: 40881
+BestScore: 157
+SolutionQuality: 87.222%
+------------------------------------
+ExecutionTime: 29.712208
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 87
+------------------------------------
+StartScore: 24
+SecondStartScore: 146
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 17
+TabuListHit: 28258
+StuckHit: 9
+BestScoreStep: 37695
+BestScore: 158
+SolutionQuality: 87.778%
+------------------------------------
+ExecutionTime: 30.104744
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 88
+------------------------------------
+StartScore: 25
+SecondStartScore: 148
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 20
+TabuListHit: 25757
+StuckHit: 9
+BestScoreStep: 74859
+BestScore: 157
+SolutionQuality: 87.222%
+------------------------------------
+ExecutionTime: 29.269698
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 89
+------------------------------------
+StartScore: 24
+SecondStartScore: 149
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 19
+TabuListHit: 24519
+StuckHit: 9
+BestScoreStep: 51248
+BestScore: 155
+SolutionQuality: 86.111%
+------------------------------------
+ExecutionTime: 30.343475
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 90
+------------------------------------
+StartScore: 22
+SecondStartScore: 147
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 18
+TabuListHit: 26341
+StuckHit: 9
+BestScoreStep: 80243
+BestScore: 160
+SolutionQuality: 88.889%
+------------------------------------
+ExecutionTime: 30.153537
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 91
+------------------------------------
+StartScore: 26
+SecondStartScore: 144
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 19
+TabuListHit: 27620
+StuckHit: 9
+BestScoreStep: 52473
+BestScore: 158
+SolutionQuality: 87.778%
+------------------------------------
+ExecutionTime: 30.458452
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 92
+------------------------------------
+StartScore: 25
+SecondStartScore: 150
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 18
+TabuListHit: 23524
+StuckHit: 9
+BestScoreStep: 42742
+BestScore: 153
+SolutionQuality: 85.000%
+------------------------------------
+ExecutionTime: 31.083638
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 93
+------------------------------------
+StartScore: 26
+SecondStartScore: 146
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 17
+TabuListHit: 29193
+StuckHit: 9
+BestScoreStep: 66057
+BestScore: 155
+SolutionQuality: 86.111%
+------------------------------------
+ExecutionTime: 31.814646
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 94
+------------------------------------
+StartScore: 26
+SecondStartScore: 142
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 22
+TabuListHit: 25871
+StuckHit: 9
+BestScoreStep: 76776
+BestScore: 158
+SolutionQuality: 87.778%
+------------------------------------
+ExecutionTime: 30.278728
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 95
+------------------------------------
+StartScore: 27
+SecondStartScore: 152
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 19
+TabuListHit: 28194
+StuckHit: 9
+BestScoreStep: 99672
+BestScore: 157
+SolutionQuality: 87.222%
+------------------------------------
+ExecutionTime: 29.961170
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 96
+------------------------------------
+StartScore: 22
+SecondStartScore: 147
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 23
+TabuListHit: 28991
+StuckHit: 9
+BestScoreStep: 93341
+BestScore: 156
+SolutionQuality: 86.667%
+------------------------------------
+ExecutionTime: 29.664458
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 97
+------------------------------------
+StartScore: 24
+SecondStartScore: 144
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 17
+TabuListHit: 26750
+StuckHit: 9
+BestScoreStep: 56527
+BestScore: 157
+SolutionQuality: 87.222%
+------------------------------------
+ExecutionTime: 30.270121
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 98
+------------------------------------
+StartScore: 29
+SecondStartScore: 146
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 22
+TabuListHit: 27279
+StuckHit: 9
+BestScoreStep: 71647
+BestScore: 156
+SolutionQuality: 86.667%
+------------------------------------
+ExecutionTime: 29.879358
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 99
+------------------------------------
+StartScore: 18
+SecondStartScore: 148
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 18
+TabuListHit: 26543
+StuckHit: 9
+BestScoreStep: 45591
+BestScore: 158
+SolutionQuality: 87.778%
+------------------------------------
+ExecutionTime: 29.266574
+####################################
+####################################
+------------------------------------
+PARAMETERS
+PiecesNumber: 10x10
+MaximumScore: 180
+TabuListsNumber: TRIPLE
+TabuSizeCorner: 3
+TabuSizeEdge: 10
+TabuSizeInner: 10
+ExpireTime: 30
+StepsThreshold: 100000
+NotImprovingStepsThreshold: 100
+CornerGenerator: CCORNER_NEXT
+EdgeGenerator: EEDGE_POS_OPPOSITE
+InnerGenerator: IINNER_NEXT
+RandomStarting: RANDOM_START
+RandomizeSeed: 100
+------------------------------------
+StartScore: 25
+SecondStartScore: 147
+------------------------------------
+RESULTS
+CurrentStep: 100000
+MaxNotImproving: 19
+TabuListHit: 28339
+StuckHit: 9
+BestScoreStep: 61135
+BestScore: 158
+SolutionQuality: 87.778%
+------------------------------------
+ExecutionTime: 27.147851
+####################################

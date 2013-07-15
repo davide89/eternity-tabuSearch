@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/107/trunk/bin/Debug/plateau
+END
+eternity_plateau
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/107/trunk/bin/Debug/plateau/eternity_plateau
+END
+10x10_no_plateau_resume.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/107/trunk/bin/Debug/plateau/10x10_no_plateau_resume.txt
+END
+10x10_output_no_plateau.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/107/trunk/bin/Debug/plateau/10x10_output_no_plateau.txt
+END
+pieces_10x10.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/107/trunk/bin/Debug/plateau/pieces_10x10.txt
+END
+10x10_plateau_stats.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/107/trunk/bin/Debug/plateau/10x10_plateau_stats.txt
+END
+10x10_plateau_resume.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/107/trunk/bin/Debug/plateau/10x10_plateau_resume.txt
+END
+10x10_output_plateau.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/107/trunk/bin/Debug/plateau/10x10_output_plateau.txt
+END
+eternity_no_plateau.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/107/trunk/bin/Debug/plateau/eternity_no_plateau.sh
+END
+eternity_plateau.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/107/trunk/bin/Debug/plateau/eternity_plateau.sh
+END
+eternity_no_plateau.awk
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/107/trunk/bin/Debug/plateau/eternity_no_plateau.awk
+END
+eternity_plateau.awk
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/107/trunk/bin/Debug/plateau/eternity_plateau.awk
+END
+eternity_no_plateau_variance.awk
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/107/trunk/bin/Debug/plateau/eternity_no_plateau_variance.awk
+END
+10x10_no_plateau_variance.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/107/trunk/bin/Debug/plateau/10x10_no_plateau_variance.txt
+END
+eternity_plateau_variance.awk
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/107/trunk/bin/Debug/plateau/eternity_plateau_variance.awk
+END
+eternity_plateau_results.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/107/trunk/bin/Debug/plateau/eternity_plateau_results.sh
+END
+10x10_plateau_variance.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/107/trunk/bin/Debug/plateau/10x10_plateau_variance.txt
+END
+eternity_no_plateau
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/107/trunk/bin/Debug/plateau/eternity_no_plateau
+END
+10x10_no_plateau_stats.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/107/trunk/bin/Debug/plateau/10x10_no_plateau_stats.txt
+END

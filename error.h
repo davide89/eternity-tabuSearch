@@ -1,0 +1,31 @@
+#ifndef ERROR_H_INCLUDED
+#define ERROR_H_INCLUDED
+
+#define SUCCESS 0
+#define FAILURE 1
+
+typedef enum err_type{
+     //GENERAL
+     MEMORY_ALLOC,
+     WRONG_NUM_PARAM,
+     WRONG_PARAM_TLN,
+     WRONG_PARAM_CORNER,
+     WRONG_PARAM_EDGE,
+     WRONG_PARAM_INNER,
+     WRONG_PARAM_START,
+
+     //INPUT_FILE
+     INPUT_FILE_NOT_FOUND,
+     INPUT_FILE_FORMAT_UNCORRECT,
+     CORNER_OVER,
+     EDGE_OVER,
+     INNER_OVER,
+     FEW_PIECES,
+     GREY_OVER,
+
+     //OUTPUT_FILE
+     ERROR_OPEN_OUTPUT_FILE,
+} err_type;
+
+void print_err();
+#endif // ERROR_H_INCLUDED
